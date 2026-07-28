@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "description": "陈家祠知识图谱实体类型Schema，基于知识图谱设计参考规范",
+  "entity_types": {
+    "景点": {
+      "description": "陈家祠作为核心景点实体",
+      "properties": {
+        "景点名称": {"type": "string", "required": true},
+        "简介": {"type": "text", "required": true},
+        "开放时间": {"type": "string", "required": false},
+        "门票信息": {"type": "string", "required": false},
+        "游玩建议时长": {"type": "string", "required": false},
+        "地理位置": {"type": "string", "required": true}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "展品": {
+      "description": "博物馆展出的各类工艺作品",
+      "properties": {
+        "展品名称": {"type": "string", "required": true},
+        "简介": {"type": "text", "required": true},
+        "年代": {"type": "string", "required": false},
+        "尺寸": {"type": "string", "required": false},
+        "材质": {"type": "string", "required": false},
+        "保护等级": {"type": "string", "required": false},
+        "馆藏来源": {"type": "string", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "展厅": {
+      "description": "陈家祠内各展览空间",
+      "properties": {
+        "展厅位置": {"type": "string", "required": true},
+        "开放时间": {"type": "string", "required": false},
+        "展厅简介": {"type": "text", "required": true},
+        "是否常设展厅": {"type": "boolean", "required": true}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "城市": {
+      "description": "地理定位实体",
+      "properties": {
+        "城市名称": {"type": "string", "required": true},
+        "地理位置": {"type": "string", "required": true},
+        "简介": {"type": "text", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "历史人物": {
+      "description": "与陈家祠历史相关的人物",
+      "properties": {
+        "姓名": {"type": "string", "required": true},
+        "生卒年份": {"type": "string", "required": false},
+        "人物简介": {"type": "text", "required": true},
+        "身份职务": {"type": "string", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "朝代或时期": {
+      "description": "历史时期分类",
+      "properties": {
+        "时期名称": {"type": "string", "required": true},
+        "起止年份": {"type": "string", "required": false},
+        "时代特征": {"type": "text", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "历史事件": {
+      "description": "陈家祠历史沿革中的重大事件",
+      "properties": {
+        "事件名称": {"type": "string", "required": true},
+        "发生时间": {"type": "string", "required": true},
+        "事件简介": {"type": "text", "required": true}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "文化主题": {
+      "description": "建筑装饰和文化内涵的主题分类",
+      "properties": {
+        "主题名称": {"type": "string", "required": true},
+        "主题简介": {"type": "text", "required": true},
+        "主题内容": {"type": "text", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "器物类别": {
+      "description": "藏品和展品的工艺分类",
+      "properties": {
+        "类别名称": {"type": "string", "required": true},
+        "类别简介": {"type": "text", "required": true}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "场馆设施": {
+      "description": "博物馆服务设施",
+      "properties": {
+        "设施名称": {"type": "string", "required": true},
+        "设施类型": {"type": "string", "required": true},
+        "服务说明": {"type": "text", "required": false},
+        "开放状态": {"type": "string", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "游览路线": {
+      "description": "推荐的参观路线",
+      "properties": {
+        "路线名称": {"type": "string", "required": true},
+        "路线时长": {"type": "string", "required": true},
+        "难度": {"type": "string", "required": false},
+        "风格简介": {"type": "text", "required": true},
+        "适合人群": {"type": "string", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "活动": {
+      "description": "博物馆举办的各类活动",
+      "properties": {
+        "活动名称": {"type": "string", "required": true},
+        "活动时间": {"type": "string", "required": true},
+        "活动地点": {"type": "string", "required": false},
+        "活动简介": {"type": "text", "required": true},
+        "活动状态": {"type": "string", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "文创产品": {
+      "description": "博物馆文创商品",
+      "properties": {
+        "产品名称": {"type": "string", "required": true},
+        "价格区间": {"type": "string", "required": false},
+        "简介": {"type": "text", "required": true},
+        "关联展品": {"type": "string", "required": false},
+        "售卖地点": {"type": "string", "required": false}
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "人群标签": {
+      "description": "游客群体分类标签",
+      "properties": {
+        "标签名称": {"type": "string", "required": true}
+      },
+      "images_field": false,
+      "source_field": true
+    }
+  },
+  "relationship_types": {
+    "位于": {
+      "description": "展厅/景点/设施/活动 → 城市/展厅",
+      "source_required": true
+    },
+    "展示于": {
+      "description": "展品 → 展厅",
+      "source_required": true
+    },
+    "属于": {
+      "description": "展品 → 器物类别/文化主题",
+      "source_required": true
+    },
+    "创作于": {
+      "description": "展品 → 朝代时期",
+      "source_required": true
+    },
+    "出土于": {
+      "description": "展品 → 景点/城市",
+      "source_required": true
+    },
+    "与人物相关": {
+      "description": "展品/事件 → 历史人物",
+      "source_required": true
+    },
+    "与事件相关": {
+      "description": "展品/人物 → 历史事件",
+      "source_required": true
+    },
+    "同一时期": {
+      "description": "展品↔展品、事件↔事件（双向）",
+      "source_required": true
+    },
+    "同一主题": {
+      "description": "展品↔展品（双向）",
+      "source_required": true
+    },
+    "相邻": {
+      "description": "展厅↔展厅",
+      "source_required": true
+    },
+    "推荐参观": {
+      "description": "展品↔展品（智能推荐核心）",
+      "source_required": true
+    },
+    "路线包含": {
+      "description": "游览路线 → 展品/展厅",
+      "source_required": true
+    },
+    "附近设施": {
+      "description": "展厅/景点 → 场馆设施",
+      "source_required": true
+    },
+    "适合面向": {
+      "description": "展品/路线 → 人群标签（推荐筛选核心）",
+      "source_required": true
+    },
+    "举办于": {
+      "description": "活动 → 展厅/景点",
+      "source_required": true
+    }
+  },
+  "global_fields": {
+    "id": {"type": "string", "required": true, "description": "实体唯一标识符"},
+    "name": {"type": "string", "required": true, "description": "实体名称"},
+    "type": {"type": "string", "required": true, "description": "实体类型"},
+    "tags": {"type": "array", "required": false, "description": "标签数组"},
+    "properties": {"type": "object", "required": true, "description": "属性对象"},
+    "description": {"type": "text", "required": true, "description": "长文本描述"},
+    "images": {"type": "array", "required": true, "description": "关联图片URL数组，无图片时为空数组"},
+    "source": {"type": "string", "required": true, "description": "数据来源，须标注为外部权威来源"}
+  }
+}
