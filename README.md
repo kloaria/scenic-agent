@@ -1,4 +1,55 @@
-# scenic-agent
-An intelligent tourism agent based on large language models, providing scenic spot recommendation, itinerary planning, and personalized travel assistance.
-在不同分支提交内容：
-例如成员一就在module1处提交。
+# 陈家祠智能导览助手（Scenic Agent）
+
+<p align="center">
+基于大语言模型 + 知识图谱 + 多模态识别的景区智能导览 Agent
+</p>
+
+
+## 📖 项目简介
+
+陈家祠智能导览助手（Scenic Agent）是一个面向文化旅游场景的智能体应用。
+
+项目以广东民间工艺博物馆（陈家祠）为应用场景，通过融合：
+
+- 大语言模型（LLM）
+- RAG 知识增强生成
+- Neo4j 知识图谱
+- 多模态视觉识别
+- Agent 工具调用
+- 云端 API 服务
+
+构建一个能够理解游客自然语言需求，并提供：
+
+- 景点介绍
+- 建筑文化讲解
+- 展品识别
+- 实体关系查询
+- 开放时间查询
+- 天气信息查询
+- 票务规则咨询
+- 馆内参观建议
+
+的一体化智能导览助手。
+
+
+---
+
+# ✨ 项目特色
+
+
+## 1. 多源知识融合智能问答
+
+系统融合多个专业知识来源：
+
+### 📚 陈家祠知识库
+
+包含：
+
+- 家祠历史与建筑艺术
+- 馆藏展品介绍
+- 参观服务规则
+- 路线与空间信息
+- 票务 FAQ
+
+
+通过 RAG 技术实现：
