@@ -2,6 +2,7 @@
 import { computed, nextTick, ref } from 'vue';
 import { askQuestion } from './api/chat';
 import { getRandomQuestions } from './data/quickQuestions';
+import { createId } from './utils/id';
 import { renderMarkdown } from './utils/markdown';
 
 const input = ref('');
@@ -63,11 +64,11 @@ async function sendQuestion(question = input.value) {
     return;
   }
 
-  const turnId = crypto.randomUUID();
+  const turnId = createId();
 
   input.value = '';
   messages.value.push({
-    id: crypto.randomUUID(),
+    id: createId(),
     turnId,
     role: 'user',
     content: normalizedQuestion
@@ -80,7 +81,7 @@ async function sendQuestion(question = input.value) {
     const answer = await askQuestion(normalizedQuestion);
 
     messages.value.push({
-      id: crypto.randomUUID(),
+      id: createId(),
       turnId,
       role: 'assistant',
       content: answer
@@ -88,7 +89,7 @@ async function sendQuestion(question = input.value) {
     refreshQuickQuestions();
   } catch (error) {
     messages.value.push({
-      id: crypto.randomUUID(),
+      id: createId(),
       turnId,
       role: 'assistant',
       content: `抱歉，问答接口暂时不可用：${error instanceof Error ? error.message : '未知错误'}`
