@@ -1,14 +1,20 @@
 import assert from 'node:assert/strict';
 import { afterEach, test } from 'node:test';
-import { askQuestion } from './chat.js';
 
 const originalFetch = globalThis.fetch;
+let moduleInstance = 0;
+
+async function loadAskQuestion() {
+  moduleInstance += 1;
+  return (await import(`./chat.js?test-instance=${moduleInstance}`)).askQuestion;
+}
 
 afterEach(() => {
   globalThis.fetch = originalFetch;
 });
 
 test('askQuestion uses the configured Dify web app while keeping the custom UI', async () => {
+  const askQuestion = await loadAskQuestion();
   const calls = [];
 
   globalThis.fetch = async (url, options) => {
@@ -21,13 +27,19 @@ test('askQuestion uses the configured Dify web app while keeping the custom UI',
       };
     }
 
-    return {
-      ok: true,
-      json: async () => ({
-        event: 'message',
-        answer: '***陈家祠***是一座__岭南传统建筑__代表。\n**值得参观。**'
-      })
-    };
+    return new Response(
+      [
+        'event: ping',
+        '',
+        'data: {"event":"message","conversation_id":"conversation-001","answer":"***陈家祠***是一座"}',
+        '',
+        'data: {"event":"message","conversation_id":"conversation-001","answer":"__岭南传统建筑__代表。\\n**值得参观。**"}',
+        '',
+        'data: {"event":"message_end","conversation_id":"conversation-001"}',
+        ''
+      ].join('\n'),
+      { headers: { 'Content-Type': 'text/event-stream; charset=utf-8' } }
+    );
   };
 
   const answer = await askQuestion('陈家祠有什么建筑特色？');
@@ -47,11 +59,12 @@ test('askQuestion uses the configured Dify web app while keeping the custom UI',
   assert.deepEqual(JSON.parse(calls[1].options.body), {
     inputs: {},
     query: '陈家祠有什么建筑特色？',
-    response_mode: 'blocking'
+    response_mode: 'streaming'
   });
 });
 
 test('askQuestion removes single, repeated, and unmatched emphasis markers', async () => {
+  const askQuestion = await loadAskQuestion();
   const answers = [
     '*单星强调*',
     '**双星强调**',
@@ -132,6 +145,8 @@ test('chat module initializes when crypto.randomUUID is unavailable', async () =
 });
 
 test('askQuestion throws a readable error when the Dify web app fails', async () => {
+  const askQuestion = await loadAskQuestion();
+
   globalThis.fetch = async (url) => {
     if (url.startsWith('https://udify.app/api/passport')) {
       return {
@@ -154,6 +169,7 @@ test('askQuestion throws a readable error when the Dify web app fails', async ()
 });
 
 test('askQuestion sends the previous conversation id on follow-up questions', async () => {
+  const askQuestion = await loadAskQuestion();
   const bodies = [];
   const passportUserIds = [];
 
@@ -169,14 +185,15 @@ test('askQuestion sends the previous conversation id on follow-up questions', as
 
     bodies.push(JSON.parse(options.body));
 
-    return {
-      ok: true,
-      json: async () => ({
-        event: 'message',
-        answer: '回答',
-        conversation_id: 'conversation-002'
-      })
-    };
+    return new Response(
+      [
+        'data: {"event":"message","conversation_id":"conversation-002","answer":"回答"}',
+        '',
+        'data: {"event":"message_end","conversation_id":"conversation-002"}',
+        ''
+      ].join('\n'),
+      { headers: { 'Content-Type': 'text/event-stream; charset=utf-8' } }
+    );
   };
 
   await askQuestion('第一问');
@@ -189,12 +206,12 @@ test('askQuestion sends the previous conversation id on follow-up questions', as
     {
       inputs: {},
       query: '第一问',
-      response_mode: 'blocking'
+      response_mode: 'streaming'
     },
     {
       inputs: {},
       query: '第二问',
-      response_mode: 'blocking',
+      response_mode: 'streaming',
       conversation_id: 'conversation-002'
     }
   ]);
