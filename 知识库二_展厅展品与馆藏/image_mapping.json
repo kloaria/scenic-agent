@@ -5542,5 +5542,3891 @@
       "https://www.gzcjc.com.cn/MY/uploadfile/Article/2020-02-131581578245333/2020-02-131581578303553.jpg"
     ],
     "source": "广东民间工艺博物馆官网"
+  },
+  "EX_QDZ_001": {
+    "name": "牙雕·石榴摆件",
+    "entity_id": "entity_EX_QDZ_001",
+    "images": [
+      "image/前东斋/slide01_牙雕·石榴摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_002": {
+    "name": "牙雕·松鼠葡萄纹笔拣",
+    "entity_id": "entity_EX_QDZ_002",
+    "images": [
+      "image/前东斋/slide01_牙雕·松鼠葡萄纹笔拣.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_003": {
+    "name": "牙雕·婴戏图纸镇",
+    "entity_id": "entity_EX_QDZ_003",
+    "images": [
+      "image/前东斋/slide02_牙雕·婴戏图纸镇.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_004": {
+    "name": "牙雕·花蝶纹竹形笔筒",
+    "entity_id": "entity_EX_QDZ_004",
+    "images": [
+      "image/前东斋/slide02_牙雕·花蝶纹竹形笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_005": {
+    "name": "牙雕·花鸟纹印章",
+    "entity_id": "entity_EX_QDZ_005",
+    "images": [
+      "image/前东斋/slide02_牙雕·花鸟纹印章.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_006": {
+    "name": "牙雕·开窗柳亭人物纹名片盒",
+    "entity_id": "entity_EX_QDZ_006",
+    "images": [
+      "image/前东斋/slide03_牙雕·开窗柳亭人物纹名片盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_007": {
+    "name": "牙雕·开光柳亭人物纹故事天使图信插",
+    "entity_id": "entity_EX_QDZ_007",
+    "images": [
+      "image/前东斋/slide03_牙雕·开光柳亭人物纹故事天使图信插.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_008": {
+    "name": "牙雕·人物庭院名片盒",
+    "entity_id": "entity_EX_QDZ_008",
+    "images": [
+      "image/前东斋/slide03_牙雕·人物庭院名片盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_009": {
+    "name": "牙雕·开光山水人物纹方盒（一）",
+    "entity_id": "entity_EX_QDZ_009",
+    "images": [
+      "image/前东斋/slide03_牙雕·开光山水人物纹方盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_010": {
+    "name": "牙雕·彩绘渔家乐图折扇",
+    "entity_id": "entity_EX_QDZ_010",
+    "images": [
+      "image/前东斋/slide04_牙雕·彩绘渔家乐图折扇.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_011": {
+    "name": "牙雕·开窗山水花卉纹折扇",
+    "entity_id": "entity_EX_QDZ_011",
+    "images": [
+      "image/前东斋/slide04_牙雕·开窗山水花卉纹折扇.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_012": {
+    "name": "牙雕·开光山水人物纹方盒（二）",
+    "entity_id": "entity_EX_QDZ_012",
+    "images": [
+      "image/前东斋/slide04_牙雕·开光山水人物纹方盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_013": {
+    "name": "竹雕·五老图摆件",
+    "entity_id": "entity_EX_QDZ_013",
+    "images": [
+      "image/前东斋/slide05_竹雕·五老图摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_014": {
+    "name": "竹雕·竹根诗文笔筒",
+    "entity_id": "entity_EX_QDZ_014",
+    "images": [
+      "image/前东斋/slide05_竹雕·竹根诗文笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_015": {
+    "name": "竹雕·东坡游赤壁图笔筒",
+    "entity_id": "entity_EX_QDZ_015",
+    "images": [
+      "image/前东斋/slide06_竹雕·东坡游赤壁图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_016": {
+    "name": "竹雕·松树纹酒杯（一）",
+    "entity_id": "entity_EX_QDZ_016",
+    "images": [
+      "image/前东斋/slide06_竹雕·松树纹酒杯.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_017": {
+    "name": "牙雕·提篮",
+    "entity_id": "entity_EX_QDZ_017",
+    "images": [
+      "image/前东斋/slide07_牙雕·提篮.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_018": {
+    "name": "牙雕·人物故事花卉纹提梁盖篮",
+    "entity_id": "entity_EX_QDZ_018",
+    "images": [
+      "image/前东斋/slide07_牙雕·人物故事花卉纹提梁盖篮.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_019": {
+    "name": "竹雕·山石摆件",
+    "entity_id": "entity_EX_QDZ_019",
+    "images": [
+      "image/前东斋/slide08_竹雕·山石摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_020": {
+    "name": "竹雕·松树纹酒杯（二）",
+    "entity_id": "entity_EX_QDZ_020",
+    "images": [
+      "image/前东斋/slide08_竹雕·松树纹酒杯.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_021": {
+    "name": "竹雕·松树纹杯",
+    "entity_id": "entity_EX_QDZ_021",
+    "images": [
+      "image/前东斋/slide09_竹雕·松树纹杯.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_022": {
+    "name": "竹雕·东园图笔筒",
+    "entity_id": "entity_EX_QDZ_022",
+    "images": [
+      "image/前东斋/slide09_竹雕·东园图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_023": {
+    "name": "牙雕·不辞长作岭南人摆件",
+    "entity_id": "entity_EX_QDZ_023",
+    "images": [
+      "image/前东斋/slide10_牙雕·不辞长作岭南人摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_024": {
+    "name": "牙雕·人物摆件",
+    "entity_id": "entity_EX_QDZ_024",
+    "images": [
+      "image/前东斋/slide10_牙雕·人物摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_025": {
+    "name": "牙雕·微刻《四书》坐屏",
+    "entity_id": "entity_EX_QDZ_025",
+    "images": [
+      "image/前东斋/slide11_牙雕·微刻《四书》坐屏.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_026": {
+    "name": "折扇形牙雕",
+    "entity_id": "entity_EX_QDZ_026",
+    "images": [
+      "image/前东斋/slide11_折扇形牙雕.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_027": {
+    "name": "竹雕·留青纳凉图笔筒",
+    "entity_id": "entity_EX_QDZ_027",
+    "images": [
+      "image/前东斋/slide12_竹雕·留青纳凉图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_028": {
+    "name": "竹雕·山水人物诗文笔筒",
+    "entity_id": "entity_EX_QDZ_028",
+    "images": [
+      "image/前东斋/slide12_竹雕·山水人物诗文笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_029": {
+    "name": "竹雕·文会图笔筒",
+    "entity_id": "entity_EX_QDZ_029",
+    "images": [
+      "image/前东斋/slide13_竹雕·文会图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_030": {
+    "name": "竹雕·山水诗文笔筒",
+    "entity_id": "entity_EX_QDZ_030",
+    "images": [
+      "image/前东斋/slide13_竹雕·山水诗文笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_031": {
+    "name": "牙雕·渔船摆件",
+    "entity_id": "entity_EX_QDZ_031",
+    "images": [
+      "image/前东斋/slide14_牙雕·渔船摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_032": {
+    "name": "牙雕·渔船摆件（另一件）",
+    "entity_id": "entity_EX_QDZ_032",
+    "images": [
+      "image/前东斋/slide14_牙雕·渔船摆件(另一件).jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_033": {
+    "name": "牙雕·山石摆件",
+    "entity_id": "entity_EX_QDZ_033",
+    "images": [
+      "image/前东斋/slide15_牙雕·山石摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_034": {
+    "name": "竹雕·笔架",
+    "entity_id": "entity_EX_QDZ_034",
+    "images": [
+      "image/前东斋/slide15_竹雕·笔架.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_035": {
+    "name": "竹雕·荷花蟹纹臂搁",
+    "entity_id": "entity_EX_QDZ_035",
+    "images": [
+      "image/前东斋/slide16_竹雕·荷花蟹纹臂搁.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_036": {
+    "name": "竹雕·诗文山水图臂搁",
+    "entity_id": "entity_EX_QDZ_036",
+    "images": [
+      "image/前东斋/slide16_竹雕·诗文山水图臂搁.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_037": {
+    "name": "牙雕·清明上河图摆件",
+    "entity_id": "entity_EX_QDZ_037",
+    "images": [
+      "image/前东斋/slide17_牙雕·清明上河图摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_038": {
+    "name": "竹雕·蟾蜍摆件",
+    "entity_id": "entity_EX_QDZ_038",
+    "images": [
+      "image/前东斋/slide18_竹雕·蟾蜍摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_039": {
+    "name": "竹雕·太狮少狮摆件",
+    "entity_id": "entity_EX_QDZ_039",
+    "images": [
+      "image/前东斋/slide18_竹雕·太狮少狮摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_040": {
+    "name": "竹雕·佛手果摆件",
+    "entity_id": "entity_EX_QDZ_040",
+    "images": [
+      "image/前东斋/slide19_竹雕·佛手果摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_041": {
+    "name": "竹雕·东山报捷图香筒",
+    "entity_id": "entity_EX_QDZ_041",
+    "images": [
+      "image/前东斋/slide20_竹雕·东山报捷图香筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_042": {
+    "name": "竹雕·卧狮水丞",
+    "entity_id": "entity_EX_QDZ_042",
+    "images": [
+      "image/前东斋/slide21_竹雕·卧狮水丞.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_043": {
+    "name": "竹雕·松树纹水丞",
+    "entity_id": "entity_EX_QDZ_043",
+    "images": [
+      "image/前东斋/slide21_竹雕·松树纹水丞.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_044": {
+    "name": "竹雕·松石水丞",
+    "entity_id": "entity_EX_QDZ_044",
+    "images": [
+      "image/前东斋/slide21_竹雕·松石水丞.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDZ_045": {
+    "name": "竹雕·灵芝笔洗",
+    "entity_id": "entity_EX_QDZ_045",
+    "images": [
+      "image/前东斋/slide22_竹雕·灵芝笔洗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东斋",
+    "exhibition": "如玲珑——广东民间工艺博物馆藏牙雕与竹雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_001": {
+    "name": "金漆木雕人物故事图构件",
+    "entity_id": "entity_EX_SJDT_001",
+    "images": [
+      "image/首进东厅/slide01_001_金漆木雕人物故事图构件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_002": {
+    "name": "木雕\"吹笛引凤\"枕墩",
+    "entity_id": "entity_EX_SJDT_002",
+    "images": [
+      "image/首进东厅/slide02_002_木雕吹笛引凤枕墩.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_003": {
+    "name": "贴金木雕梁（局部一）",
+    "entity_id": "entity_EX_SJDT_003",
+    "images": [
+      "image/首进东厅/slide03_003_贴金木雕梁(局部一).jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_004": {
+    "name": "贴金木雕梁（局部二）",
+    "entity_id": "entity_EX_SJDT_004",
+    "images": [
+      "image/首进东厅/slide03_004_贴金木雕梁(局部二).jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_005": {
+    "name": "贴金木雕梁（局部三）",
+    "entity_id": "entity_EX_SJDT_005",
+    "images": [
+      "image/首进东厅/slide03_005_贴金木雕梁(局部三).jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_006": {
+    "name": "贴金木雕梁（局部四）",
+    "entity_id": "entity_EX_SJDT_006",
+    "images": [
+      "image/首进东厅/slide03_006_贴金木雕梁(局部四).jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_007": {
+    "name": "贴金木雕彩门",
+    "entity_id": "entity_EX_SJDT_007",
+    "images": [
+      "image/首进东厅/slide05_007_贴金木雕彩门.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_008": {
+    "name": "砖雕人物",
+    "entity_id": "entity_EX_SJDT_008",
+    "images": [
+      "image/首进东厅/slide06_008_砖雕人物.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_009": {
+    "name": "砖雕围边",
+    "entity_id": "entity_EX_SJDT_009",
+    "images": [
+      "image/首进东厅/slide07_009_砖雕围边.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_010": {
+    "name": "砖雕侧面人物",
+    "entity_id": "entity_EX_SJDT_010",
+    "images": [
+      "image/首进东厅/slide07_010_砖雕侧面人物.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_011": {
+    "name": "砖雕向日葵底座",
+    "entity_id": "entity_EX_SJDT_011",
+    "images": [
+      "image/首进东厅/slide07_011_砖雕向日葵底座.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_012": {
+    "name": "石雕人物雀替",
+    "entity_id": "entity_EX_SJDT_012",
+    "images": [
+      "image/首进东厅/slide08_012_石雕人物雀替.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_013": {
+    "name": "石雕栊墩",
+    "entity_id": "entity_EX_SJDT_013",
+    "images": [
+      "image/首进东厅/slide09_013_石雕栊墩.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_014": {
+    "name": "套蓝蚀刻牡丹雀图满洲窗",
+    "entity_id": "entity_EX_SJDT_014",
+    "images": [
+      "image/首进东厅/slide10_014_套蓝蚀刻牡丹雀图满洲窗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_015": {
+    "name": "潮州木雕瓜柱",
+    "entity_id": "entity_EX_SJDT_015",
+    "images": [
+      "image/首进东厅/slide11_015_潮州木雕瓜柱.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_016": {
+    "name": "潮州木雕描金彩绘狮子花果梁托",
+    "entity_id": "entity_EX_SJDT_016",
+    "images": [
+      "image/首进东厅/slide12_016_潮州木雕描金彩绘狮子花果梁托.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_017": {
+    "name": "潮州木雕彩绘鳌鱼雀替",
+    "entity_id": "entity_EX_SJDT_017",
+    "images": [
+      "image/首进东厅/slide13_017_潮州木雕彩绘鳌鱼雀替.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_018": {
+    "name": "潮州木雕描金彩绘金漆狮兽图花板",
+    "entity_id": "entity_EX_SJDT_018",
+    "images": [
+      "image/首进东厅/slide14_018_潮州木雕描金彩绘金漆狮兽图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_019": {
+    "name": "潮州金漆木雕凤梅雀图花板",
+    "entity_id": "entity_EX_SJDT_019",
+    "images": [
+      "image/首进东厅/slide15_019_潮州金漆木雕凤梅雀图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_020": {
+    "name": "潮州石雕加彩鳌鱼雀替",
+    "entity_id": "entity_EX_SJDT_020",
+    "images": [
+      "image/首进东厅/slide16_020_潮州石雕加彩鳌鱼雀替.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_SJDT_021": {
+    "name": "潮州木雕狮彘梁托",
+    "entity_id": "entity_EX_SJDT_021",
+    "images": [
+      "image/首进东厅/slide17_021_潮州木雕狮彘梁托.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "首进东厅",
+    "exhibition": "岭南传统建筑装饰艺术展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_001": {
+    "name": "广州西关大屋（模型）",
+    "entity_id": "entity_EX_QDX_001",
+    "images": [
+      "image/前东厢/slide01_001_1_广州西关大屋(模型).jpg",
+      "image/前东厢/slide01_001_2_广州西关大屋(模型).jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_002": {
+    "name": "广州套色玻璃刻画",
+    "entity_id": "entity_EX_QDX_002",
+    "images": [
+      "image/前东厢/slide02_002_1_广州套色玻璃刻画.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_003": {
+    "name": "偏厅款客",
+    "entity_id": "entity_EX_QDX_003",
+    "images": [
+      "image/前东厢/slide03_003_1_偏厅款客.jpg",
+      "image/前东厢/slide03_003_2_偏厅款客.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_004": {
+    "name": "福禄寿三星",
+    "entity_id": "entity_EX_QDX_004",
+    "images": [
+      "image/前东厢/slide04_004_1_福禄寿三星.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_005": {
+    "name": "饭厅",
+    "entity_id": "entity_EX_QDX_005",
+    "images": [
+      "image/前东厢/slide05_005_1_饭厅.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_006": {
+    "name": "寝室闲居",
+    "entity_id": "entity_EX_QDX_006",
+    "images": [
+      "image/前东厢/slide06_006_1_寝室闲居.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_QDX_007": {
+    "name": "姑婆房",
+    "entity_id": "entity_EX_QDX_007",
+    "images": [
+      "image/前东厢/slide07_007_1_姑婆房.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "前东厢",
+    "exhibition": "广州旧家居展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_001": {
+    "name": "蝉形砚",
+    "entity_id": "entity_EX_ZDX_001",
+    "images": [
+      "image/中东厢/slide01_001_蝉形砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_002": {
+    "name": "龙吐珠砚",
+    "entity_id": "entity_EX_ZDX_002",
+    "images": [
+      "image/中东厢/slide02_002_龙吐珠砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_003": {
+    "name": "幼章铭圭池砚",
+    "entity_id": "entity_EX_ZDX_003",
+    "images": [
+      "image/中东厢/slide03_003_幼章铭圭池砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_004": {
+    "name": "夔纹卷书砚",
+    "entity_id": "entity_EX_ZDX_004",
+    "images": [
+      "image/中东厢/slide04_004_夔纹卷书砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_005": {
+    "name": "山水铭文砚",
+    "entity_id": "entity_EX_ZDX_005",
+    "images": [
+      "image/中东厢/slide05_005_山水铭文砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_006": {
+    "name": "松鹤山水砚",
+    "entity_id": "entity_EX_ZDX_006",
+    "images": [
+      "image/中东厢/slide06_006_松鹤山水砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_007": {
+    "name": "雀鹿蜂猴双面对砚",
+    "entity_id": "entity_EX_ZDX_007",
+    "images": [
+      "image/中东厢/slide07_007_雀鹿蜂猴双面对砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_008": {
+    "name": "翠松人家增福寿砚",
+    "entity_id": "entity_EX_ZDX_008",
+    "images": [
+      "image/中东厢/slide08_008_翠松人家增福寿砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_009": {
+    "name": "端溪砚坑图砚",
+    "entity_id": "entity_EX_ZDX_009",
+    "images": [
+      "image/中东厢/slide09_009_端溪砚坑图砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_010": {
+    "name": "二甲传胪砚",
+    "entity_id": "entity_EX_ZDX_010",
+    "images": [
+      "image/中东厢/slide10_010_二甲传胪砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_011": {
+    "name": "双螭耳瓶砚",
+    "entity_id": "entity_EX_ZDX_011",
+    "images": [
+      "image/中东厢/slide11_011_双螭耳瓶砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_012": {
+    "name": "蟾蜍砚",
+    "entity_id": "entity_EX_ZDX_012",
+    "images": [
+      "image/中东厢/slide12_012_蟾蜍砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_013": {
+    "name": "九色荷叶砚",
+    "entity_id": "entity_EX_ZDX_013",
+    "images": [
+      "image/中东厢/slide13_013_九色荷叶砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_014": {
+    "name": "坑仔岩雕鹰桃砚",
+    "entity_id": "entity_EX_ZDX_014",
+    "images": [
+      "image/中东厢/slide14_014_坑仔岩雕鹰桃砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_015": {
+    "name": "云龙纹砚",
+    "entity_id": "entity_EX_ZDX_015",
+    "images": [
+      "image/中东厢/slide15_015_云龙纹砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_016": {
+    "name": "五牛图砚",
+    "entity_id": "entity_EX_ZDX_016",
+    "images": [
+      "image/中东厢/slide16_016_五牛图砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_017": {
+    "name": "欲舞春华砚",
+    "entity_id": "entity_EX_ZDX_017",
+    "images": [
+      "image/中东厢/slide17_017_欲舞春华砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_018": {
+    "name": "端溪石趣砚",
+    "entity_id": "entity_EX_ZDX_018",
+    "images": [
+      "image/中东厢/slide18_018_端溪_石趣_砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_019": {
+    "name": "日月合璧砚",
+    "entity_id": "entity_EX_ZDX_019",
+    "images": [
+      "image/中东厢/slide20_019_日月合璧砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_020": {
+    "name": "覆竹形砚",
+    "entity_id": "entity_EX_ZDX_020",
+    "images": [
+      "image/中东厢/slide21_020_覆竹形砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_021": {
+    "name": "云月砚",
+    "entity_id": "entity_EX_ZDX_021",
+    "images": [
+      "image/中东厢/slide22_021_云月砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_022": {
+    "name": "阅微草堂风字砚",
+    "entity_id": "entity_EX_ZDX_022",
+    "images": [
+      "image/中东厢/slide23_022_阅微草堂风字砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_023": {
+    "name": "云海日出砚",
+    "entity_id": "entity_EX_ZDX_023",
+    "images": [
+      "image/中东厢/slide24_023_云海日出砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_024": {
+    "name": "淌池椭圆形砚",
+    "entity_id": "entity_EX_ZDX_024",
+    "images": [
+      "image/中东厢/slide25_024_淌池椭圆形砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_025": {
+    "name": "松鹤龙纹合璧砚",
+    "entity_id": "entity_EX_ZDX_025",
+    "images": [
+      "image/中东厢/slide26_025_松鹤龙纹合璧砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_026": {
+    "name": "石鼓第三砚",
+    "entity_id": "entity_EX_ZDX_026",
+    "images": [
+      "image/中东厢/slide27_026_石鼓第三砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_027": {
+    "name": "汉碑砚斋缩摹苍颉碑砚",
+    "entity_id": "entity_EX_ZDX_027",
+    "images": [
+      "image/中东厢/slide28_027_汉碑砚斋缩摹苍颉碑砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_028": {
+    "name": "遂闲堂写经砚",
+    "entity_id": "entity_EX_ZDX_028",
+    "images": [
+      "image/中东厢/slide29_028_遂闲堂写经砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_029": {
+    "name": "沈廷芳莲花砚",
+    "entity_id": "entity_EX_ZDX_029",
+    "images": [
+      "image/中东厢/slide30_029_沈廷芳莲花砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_030": {
+    "name": "朱子治家格言砚",
+    "entity_id": "entity_EX_ZDX_030",
+    "images": [
+      "image/中东厢/slide31_030_朱子治家格言砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZDX_031": {
+    "name": "瓜形砚",
+    "entity_id": "entity_EX_ZDX_031",
+    "images": [
+      "image/中东厢/slide32_031_瓜形砚.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中东厢",
+    "exhibition": "广东民间工艺博物馆藏端砚精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_001": {
+    "name": "玉雕·十二生肖像",
+    "entity_id": "entity_EX_HDZ_001",
+    "images": [
+      "image/后东斋/玉雕·十二生肖像.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_002": {
+    "name": "麦秆画·骏马图",
+    "entity_id": "entity_EX_HDZ_002",
+    "images": [
+      "image/后东斋/麦秆画·骏马图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_003": {
+    "name": "竹雕·骏马图笔筒",
+    "entity_id": "entity_EX_HDZ_003",
+    "images": [
+      "image/后东斋/竹雕·骏马图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_004": {
+    "name": "双龙凤十二生肖纹铜镜",
+    "entity_id": "entity_EX_HDZ_004",
+    "images": [
+      "image/后东斋/双龙凤十二生肖纹铜镜.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_005": {
+    "name": "剪纸·十二生肖图",
+    "entity_id": "entity_EX_HDZ_005",
+    "images": [
+      "image/后东斋/剪纸·十二生肖图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_006": {
+    "name": "竹雕·松溪浴马图笔筒",
+    "entity_id": "entity_EX_HDZ_006",
+    "images": [
+      "image/后东斋/竹雕·松溪浴马图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_007": {
+    "name": "玉雕·八骏图笔筒",
+    "entity_id": "entity_EX_HDZ_007",
+    "images": [
+      "image/后东斋/玉雕·八骏图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_008": {
+    "name": "青花瓷·八骏图缸",
+    "entity_id": "entity_EX_HDZ_008",
+    "images": [
+      "image/后东斋/青花瓷·八骏图缸.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_009": {
+    "name": "粉彩·八骏图瓶",
+    "entity_id": "entity_EX_HDZ_009",
+    "images": [
+      "image/后东斋/粉彩·八骏图瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_010": {
+    "name": "景德镇窑·珊瑚红地八骏图盖盅",
+    "entity_id": "entity_EX_HDZ_010",
+    "images": [
+      "image/后东斋/景德镇窑·珊瑚红地八骏图盖盅.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_011": {
+    "name": "青花瓷·青花八骏图方瓶",
+    "entity_id": "entity_EX_HDZ_011",
+    "images": [
+      "image/后东斋/青花瓷·青花八骏图方瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_012": {
+    "name": "青花瓷·釉里红八骏图笔筒",
+    "entity_id": "entity_EX_HDZ_012",
+    "images": [
+      "image/后东斋/青花瓷·釉里红八骏图笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_013": {
+    "name": "八骏图鼻烟壶",
+    "entity_id": "entity_EX_HDZ_013",
+    "images": [
+      "image/后东斋/八骏图鼻烟壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_014": {
+    "name": "木雕·八骏图花板",
+    "entity_id": "entity_EX_HDZ_014",
+    "images": [
+      "image/后东斋/木雕·八骏图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_015": {
+    "name": "景德镇窑·珊瑚红八骏立像",
+    "entity_id": "entity_EX_HDZ_015",
+    "images": [
+      "image/后东斋/景德镇窑·珊瑚红八骏立像.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_016": {
+    "name": "石湾陶·骏马",
+    "entity_id": "entity_EX_HDZ_016",
+    "images": [
+      "image/后东斋/石湾陶·骏马.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_017": {
+    "name": "玉雕·跃进马",
+    "entity_id": "entity_EX_HDZ_017",
+    "images": [
+      "image/后东斋/玉雕·跃进马.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_018": {
+    "name": "广彩·双骏图瓶",
+    "entity_id": "entity_EX_HDZ_018",
+    "images": [
+      "image/后东斋/广彩·双骏图瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_019": {
+    "name": "枫溪瓷·白釉跃马",
+    "entity_id": "entity_EX_HDZ_019",
+    "images": [
+      "image/后东斋/枫溪瓷·白釉跃马.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_020": {
+    "name": "石湾陶·三彩骏马",
+    "entity_id": "entity_EX_HDZ_020",
+    "images": [
+      "image/后东斋/石湾陶·三彩骏马.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_021": {
+    "name": "前程万里图鼻烟壶",
+    "entity_id": "entity_EX_HDZ_021",
+    "images": [
+      "image/后东斋/前程万里图鼻烟壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_022": {
+    "name": "奔腾图鼻烟壶",
+    "entity_id": "entity_EX_HDZ_022",
+    "images": [
+      "image/后东斋/奔腾图鼻烟壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_023": {
+    "name": "象牙雕·骏马",
+    "entity_id": "entity_EX_HDZ_023",
+    "images": [
+      "image/后东斋/象牙雕·骏马.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_024": {
+    "name": "木雕·郑成功图花板",
+    "entity_id": "entity_EX_HDZ_024",
+    "images": [
+      "image/后东斋/木雕·郑成功图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_025": {
+    "name": "木雕·赵子龙救阿斗花板",
+    "entity_id": "entity_EX_HDZ_025",
+    "images": [
+      "image/后东斋/木雕·赵子龙救阿斗花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_026": {
+    "name": "木雕·张飞战马超花板",
+    "entity_id": "entity_EX_HDZ_026",
+    "images": [
+      "image/后东斋/木雕·张飞战马超花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_027": {
+    "name": "广彩·三英战吕布碟",
+    "entity_id": "entity_EX_HDZ_027",
+    "images": [
+      "image/后东斋/广彩·三英战吕布碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_028": {
+    "name": "广彩·万世师表图花板",
+    "entity_id": "entity_EX_HDZ_028",
+    "images": [
+      "image/后东斋/广彩·万世师表图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_029": {
+    "name": "枫溪瓷·木兰从军",
+    "entity_id": "entity_EX_HDZ_029",
+    "images": [
+      "image/后东斋/枫溪瓷·木兰从军.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_030": {
+    "name": "木雕·木兰从军",
+    "entity_id": "entity_EX_HDZ_030",
+    "images": [
+      "image/后东斋/木雕·木兰从军.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_031": {
+    "name": "石湾陶·千里走单骑",
+    "entity_id": "entity_EX_HDZ_031",
+    "images": [
+      "image/后东斋/石湾陶·千里走单骑.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HDZ_032": {
+    "name": "木雕·红军长征图",
+    "entity_id": "entity_EX_HDZ_032",
+    "images": [
+      "image/后东斋/木雕·红军长征图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后东斋",
+    "exhibition": "马到成功——丙午贺岁工艺精品展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_001": {
+    "name": "广东民间工艺馆人员合照",
+    "entity_id": "entity_EX_HJDT_001",
+    "images": [
+      "image/后进东厅/slide01_001_广东民间工艺馆人员合照.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_002": {
+    "name": "1981年复原维修合同",
+    "entity_id": "entity_EX_HJDT_002",
+    "images": [
+      "image/后进东厅/slide02_002_1981年复原维修合同.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_003": {
+    "name": "1966-1975年陈家祠受损情况记录",
+    "entity_id": "entity_EX_HJDT_003",
+    "images": [
+      "image/后进东厅/slide03_003_1966-1975年陈家祠受损情况记录.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_004": {
+    "name": "陈氏书院81年维修预算及解放后第二次重修方案初稿",
+    "entity_id": "entity_EX_HJDT_004",
+    "images": [
+      "image/后进东厅/slide04_004_《陈氏书院81年维修预算》及《解放后第二次重修方案初稿》.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_005": {
+    "name": "陈家祠1981年修复工程施工单位一览",
+    "entity_id": "entity_EX_HJDT_005",
+    "images": [
+      "image/后进东厅/slide05_005_陈家祠1981年修复工程施工单位一览.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_006": {
+    "name": "陈家祠门前石狮子及其基座",
+    "entity_id": "entity_EX_HJDT_006",
+    "images": [
+      "image/后进东厅/slide06_006_陈家祠门前石狮子及其基座.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_007": {
+    "name": "陈氏书院防雷工程设计图",
+    "entity_id": "entity_EX_HJDT_007",
+    "images": [
+      "image/后进东厅/slide07_007_陈氏书院防雷工程设计图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_008": {
+    "name": "陈家祠防雷网络完善工程",
+    "entity_id": "entity_EX_HJDT_008",
+    "images": [
+      "image/后进东厅/slide08_008_陈家祠防雷网络完善工程.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_009": {
+    "name": "陶塑瓦脊保护复原",
+    "entity_id": "entity_EX_HJDT_009",
+    "images": [
+      "image/后进东厅/slide09_009_陶塑瓦脊保护复原.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_010": {
+    "name": "复原后瓦脊全貌及灰塑独角狮修复样件",
+    "entity_id": "entity_EX_HJDT_010",
+    "images": [
+      "image/后进东厅/slide10_010_复原后瓦脊全貌及灰塑独角狮修复样件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_011": {
+    "name": "戏剧人物陶塑瓦脊",
+    "entity_id": "entity_EX_HJDT_011",
+    "images": [
+      "image/后进东厅/slide11_011_戏剧人物陶塑瓦脊.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_012": {
+    "name": "织绣类文物修复流程示意",
+    "entity_id": "entity_EX_HJDT_012",
+    "images": [
+      "image/后进东厅/slide12_012_织绣类文物修复流程示意.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_013": {
+    "name": "广绣云龙纹霞帔修复前后对比",
+    "entity_id": "entity_EX_HJDT_013",
+    "images": [
+      "image/后进东厅/slide13_013_广绣云龙纹霞帔修复前后对比.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_014": {
+    "name": "清广绣练雀补子",
+    "entity_id": "entity_EX_HJDT_014",
+    "images": [
+      "image/后进东厅/slide14_014_清广绣练雀补子.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_015": {
+    "name": "室内型光照紫外线温湿度合一监测终端",
+    "entity_id": "entity_EX_HJDT_015",
+    "images": [
+      "image/后进东厅/slide15_015_室内型光照紫外线温湿度合一监测终端.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_016": {
+    "name": "文物保存环境吸附剂",
+    "entity_id": "entity_EX_HJDT_016",
+    "images": [
+      "image/后进东厅/slide16_016_文物保存环境吸附剂.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_017": {
+    "name": "20世纪初的陈家祠正立面历史照片",
+    "entity_id": "entity_EX_HJDT_017",
+    "images": [
+      "image/后进东厅/slide17_017_20世纪初的陈家祠正立面_历史照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_018": {
+    "name": "20世纪初的陈家祠正立面及旗杆历史照片",
+    "entity_id": "entity_EX_HJDT_018",
+    "images": [
+      "image/后进东厅/slide18_018_20世纪初的陈家祠正立面及旗杆_历史照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_019": {
+    "name": "1900年的陈家祠连廊立体照片",
+    "entity_id": "entity_EX_HJDT_019",
+    "images": [
+      "image/后进东厅/slide19_019_1900年的陈家祠连廊_立体照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_020": {
+    "name": "1902年的陈家祠连廊立体照片",
+    "entity_id": "entity_EX_HJDT_020",
+    "images": [
+      "image/后进东厅/slide20_020_1902年的陈家祠连廊_立体照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_021": {
+    "name": "1910年的陈家祠连廊立体照片",
+    "entity_id": "entity_EX_HJDT_021",
+    "images": [
+      "image/后进东厅/slide21_021_1910年的陈家祠连廊_立体照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_022": {
+    "name": "1909年的陈家祠聚贤堂历史照片",
+    "entity_id": "entity_EX_HJDT_022",
+    "images": [
+      "image/后进东厅/slide22_022_1909年的陈家祠聚贤堂_历史照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_023": {
+    "name": "20世纪初后进祖堂历史照片",
+    "entity_id": "entity_EX_HJDT_023",
+    "images": [
+      "image/后进东厅/slide23_023_20世纪初后进祖堂_历史照片_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_024": {
+    "name": "九个主要厅堂的三维扫描点云模型与监测平台",
+    "entity_id": "entity_EX_HJDT_024",
+    "images": [
+      "image/后进东厅/slide24_024_九个主要厅堂的三维扫描点云模型与监测平台.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_025": {
+    "name": "北斗卫星定位系统接收器",
+    "entity_id": "entity_EX_HJDT_025",
+    "images": [
+      "image/后进东厅/slide25_025_北斗卫星定位系统接收器.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_026": {
+    "name": "前檐梁架保养维护施工图",
+    "entity_id": "entity_EX_HJDT_026",
+    "images": [
+      "image/后进东厅/slide26_026_前檐梁架保养维护施工图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_027": {
+    "name": "计算机软件著作权登记证书陈家祠监测平台",
+    "entity_id": "entity_EX_HJDT_027",
+    "images": [
+      "image/后进东厅/slide27_027_计算机软件著作权登记证书_陈家祠文物建筑预防性保护智能监测平台_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_028": {
+    "name": "陈家祠文物建筑预防性保护监测月报",
+    "entity_id": "entity_EX_HJDT_028",
+    "images": [
+      "image/后进东厅/slide28_028_陈家祠文物建筑预防性保护监测月报.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJDT_029": {
+    "name": "白蚁监测装置",
+    "entity_id": "entity_EX_HJDT_029",
+    "images": [
+      "image/后进东厅/slide29_029_白蚁监测装置.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进东厅",
+    "exhibition": "承前启后——陈家祠的复原保护和科技保护",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_001": {
+    "name": "清代广州城图（合族祠分布）",
+    "entity_id": "entity_EX_HJZT_001",
+    "images": [
+      "image/后进正厅/slide01_001_清代广州城图_合族祠分布_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_002": {
+    "name": "建祠刊刻公所告示",
+    "entity_id": "entity_EX_HJZT_002",
+    "images": [
+      "image/后进正厅/slide02_002_《建祠刊刻公所告示》.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_003": {
+    "name": "广东省城全图·陈氏书院地图",
+    "entity_id": "entity_EX_HJZT_003",
+    "images": [
+      "image/后进正厅/slide03_003_《广东省城全图·陈氏书院地图》.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_004": {
+    "name": "陈家祠后座神龛排列图与主位图",
+    "entity_id": "entity_EX_HJZT_004",
+    "images": [
+      "image/后进正厅/slide04_004_陈家祠后座神龛排列图与主位图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_005": {
+    "name": "陈家祠祖堂神龛与神主牌位",
+    "entity_id": "entity_EX_HJZT_005",
+    "images": [
+      "image/后进正厅/slide05_005_陈家祠祖堂神龛与神主牌位.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_006": {
+    "name": "陈氏书院契据登记簿与地契图",
+    "entity_id": "entity_EX_HJZT_006",
+    "images": [
+      "image/后进正厅/slide06_006_《陈氏书院契据登记簿》与地契图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_007": {
+    "name": "神案木雕构件与复原过程",
+    "entity_id": "entity_EX_HJZT_007",
+    "images": [
+      "image/后进正厅/slide07_007_神案木雕构件与复原过程.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_008": {
+    "name": "民国时期的陈家祠（1912-1949）",
+    "entity_id": "entity_EX_HJZT_008",
+    "images": [
+      "image/后进正厅/slide08_008_民国时期的陈家祠_1912-1949_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_009": {
+    "name": "二十世纪20年代陈家祠与学校创办",
+    "entity_id": "entity_EX_HJZT_009",
+    "images": [
+      "image/后进正厅/slide09_009_二十世纪20年代陈家祠与学校创办.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_010": {
+    "name": "1950年后的陈家祠",
+    "entity_id": "entity_EX_HJZT_010",
+    "images": [
+      "image/后进正厅/slide10_010_1950年后的陈家祠.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_011": {
+    "name": "数字化展示与文化传播",
+    "entity_id": "entity_EX_HJZT_011",
+    "images": [
+      "image/后进正厅/slide11_011_数字化展示与文化传播.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_012": {
+    "name": "陈家祠保护大事记",
+    "entity_id": "entity_EX_HJZT_012",
+    "images": [
+      "image/后进正厅/slide12_012_陈家祠保护大事记.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_013": {
+    "name": "陈家祠神主牌位铭文",
+    "entity_id": "entity_EX_HJZT_013",
+    "images": [
+      "image/后进正厅/slide13_013_陈家祠神主牌位铭文.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJZT_014": {
+    "name": "陈氏书院后座神龛复原",
+    "entity_id": "entity_EX_HJZT_014",
+    "images": [
+      "image/后进正厅/slide14_014_陈氏书院后座神龛复原.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进正厅",
+    "exhibition": "百年陈家祠图片展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_001": {
+    "name": "绘墨彩八宝花纹瓷暖碟",
+    "entity_id": "entity_EX_HJXT_001",
+    "images": [
+      "image/后进西厅/slide01_001_绘墨彩八宝花纹瓷暖碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_002": {
+    "name": "绘开光人物双鹤耳瓶",
+    "entity_id": "entity_EX_HJXT_002",
+    "images": [
+      "image/后进西厅/slide02_002_绘开光人物双鹤耳瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_003": {
+    "name": "绘散花雀碟",
+    "entity_id": "entity_EX_HJXT_003",
+    "images": [
+      "image/后进西厅/slide03_003_绘散花雀碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_004": {
+    "name": "绘鹰纹徽章方形碟",
+    "entity_id": "entity_EX_HJXT_004",
+    "images": [
+      "image/后进西厅/slide04_004_绘鹰纹徽章方形碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_005": {
+    "name": "绘织金人物图大瓷碗",
+    "entity_id": "entity_EX_HJXT_005",
+    "images": [
+      "image/后进西厅/slide05_005_绘织金人物图大瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_006": {
+    "name": "绘斗鸡图瓷茶具",
+    "entity_id": "entity_EX_HJXT_006",
+    "images": [
+      "image/后进西厅/slide06_006_绘斗鸡图瓷茶具.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_007": {
+    "name": "翠毛釉筒式炉",
+    "entity_id": "entity_EX_HJXT_007",
+    "images": [
+      "image/后进西厅/slide07_007_翠毛釉筒式炉.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_008": {
+    "name": "哥釉琮式瓶",
+    "entity_id": "entity_EX_HJXT_008",
+    "images": [
+      "image/后进西厅/slide08_008_哥釉琮式瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_009": {
+    "name": "钧蓝釉石山",
+    "entity_id": "entity_EX_HJXT_009",
+    "images": [
+      "image/后进西厅/slide09_009_钧蓝釉石山.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_010": {
+    "name": "石榴红釉和合二仙陶摆件",
+    "entity_id": "entity_EX_HJXT_010",
+    "images": [
+      "image/后进西厅/slide10_010_石榴红釉和合二仙陶摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_011": {
+    "name": "黑猫",
+    "entity_id": "entity_EX_HJXT_011",
+    "images": [
+      "image/后进西厅/slide11_011_黑猫.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_012": {
+    "name": "陶塑孟浩然",
+    "entity_id": "entity_EX_HJXT_012",
+    "images": [
+      "image/后进西厅/slide12_012_陶塑孟浩然.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_013": {
+    "name": "绘同庆年宵图瓷荷口瓶",
+    "entity_id": "entity_EX_HJXT_013",
+    "images": [
+      "image/后进西厅/slide13_013_绘『同庆年宵』图瓷荷口瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_014": {
+    "name": "石湾陶·哺",
+    "entity_id": "entity_EX_HJXT_014",
+    "images": [
+      "image/后进西厅/slide14_014_石湾陶·《哺》.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_015": {
+    "name": "清光绪景德镇窑粉彩百鸟朝凤图瓷瓶",
+    "entity_id": "entity_EX_HJXT_015",
+    "images": [
+      "image/后进西厅/slide15_015_清光绪景德镇窑粉彩百鸟朝凤图瓷瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_016": {
+    "name": "枫溪春色瓷雕大花篮",
+    "entity_id": "entity_EX_HJXT_016",
+    "images": [
+      "image/后进西厅/slide16_016_枫溪·春色瓷雕大花篮.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_017": {
+    "name": "潮州窑白釉贴塑竹叶纹瓷瓶",
+    "entity_id": "entity_EX_HJXT_017",
+    "images": [
+      "image/后进西厅/slide17_017_潮州窑白釉贴塑竹叶纹瓷瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_018": {
+    "name": "枫溪窑白地彩绘釉下堆花纹瓷笔筒",
+    "entity_id": "entity_EX_HJXT_018",
+    "images": [
+      "image/后进西厅/slide18_018_枫溪窑白地彩绘釉下堆花纹瓷笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_019": {
+    "name": "大窑五彩塑布袋佛瓷挂瓶",
+    "entity_id": "entity_EX_HJXT_019",
+    "images": [
+      "image/后进西厅/slide19_019_大窑五彩塑布袋佛瓷挂瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_020": {
+    "name": "白釉塑孙尚香",
+    "entity_id": "entity_EX_HJXT_020",
+    "images": [
+      "image/后进西厅/slide20_020_白釉塑孙尚香.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_021": {
+    "name": "白釉塑刘备",
+    "entity_id": "entity_EX_HJXT_021",
+    "images": [
+      "image/后进西厅/slide20_021_白釉塑刘备.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_022": {
+    "name": "枫溪瓷塑百里奚会妻",
+    "entity_id": "entity_EX_HJXT_022",
+    "images": [
+      "image/后进西厅/slide21_022_枫溪瓷塑百里奚会妻.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_023": {
+    "name": "枫溪瓷十五贯访鼠摆件",
+    "entity_id": "entity_EX_HJXT_023",
+    "images": [
+      "image/后进西厅/slide22_023_枫溪瓷《十五贯·访鼠》摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_024": {
+    "name": "枫溪瓷塑红楼十二钗",
+    "entity_id": "entity_EX_HJXT_024",
+    "images": [
+      "image/后进西厅/slide23_024_枫溪瓷塑红楼十二钗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_025": {
+    "name": "釉下彩高脚瓷果碟",
+    "entity_id": "entity_EX_HJXT_025",
+    "images": [
+      "image/后进西厅/slide24_025_釉下彩高脚瓷果碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_026": {
+    "name": "豆青竹节瓷咖啡具",
+    "entity_id": "entity_EX_HJXT_026",
+    "images": [
+      "image/后进西厅/slide25_026_豆青竹节瓷咖啡具.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_027": {
+    "name": "青花花卉纹瓷茶具",
+    "entity_id": "entity_EX_HJXT_027",
+    "images": [
+      "image/后进西厅/slide26_027_青花花卉纹瓷茶具.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_028": {
+    "name": "青花菊白头翁纹瓷瓶",
+    "entity_id": "entity_EX_HJXT_028",
+    "images": [
+      "image/后进西厅/slide27_028_青花菊白头翁纹瓷瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_HJXT_029": {
+    "name": "青花绘山水纹瓷笔筒",
+    "entity_id": "entity_EX_HJXT_029",
+    "images": [
+      "image/后进西厅/slide28_029_青花绘山水纹瓷笔筒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "后进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_001": {
+    "name": "景德镇窑青花双鹿花卉纹盘",
+    "entity_id": "entity_EX_ZJXT_001",
+    "images": [
+      "image/中进西厅/slide01_001_景德镇窑青花双鹿花卉纹盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_002": {
+    "name": "青花落叶寿石纹盘",
+    "entity_id": "entity_EX_ZJXT_002",
+    "images": [
+      "image/中进西厅/slide01_002_青花落叶寿石纹盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_003": {
+    "name": "青花缠枝花卉纹碗",
+    "entity_id": "entity_EX_ZJXT_003",
+    "images": [
+      "image/中进西厅/slide04_004_青花缠枝花卉纹碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_004": {
+    "name": "青花缠枝西番莲纹碗",
+    "entity_id": "entity_EX_ZJXT_004",
+    "images": [
+      "image/中进西厅/slide05_005_青花缠枝西番莲纹碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_005": {
+    "name": "青花缠枝菊花纹碗",
+    "entity_id": "entity_EX_ZJXT_005",
+    "images": [
+      "image/中进西厅/slide05_006_青花缠枝菊花纹碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_006": {
+    "name": "明麒麟望月纹青花瓷盘",
+    "entity_id": "entity_EX_ZJXT_006",
+    "images": [
+      "image/中进西厅/slide07_008_明麒麟望月纹青花瓷盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_007": {
+    "name": "明缠枝花卉纹青花瓷碗",
+    "entity_id": "entity_EX_ZJXT_007",
+    "images": [
+      "image/中进西厅/slide10_010_明缠枝花卉纹青花瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_008": {
+    "name": "明『白玉斋』青花瓷碗",
+    "entity_id": "entity_EX_ZJXT_008",
+    "images": [
+      "image/中进西厅/slide18_018_明『白玉斋』青花瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_009": {
+    "name": "明『大明年制』花卉纹青花碗",
+    "entity_id": "entity_EX_ZJXT_009",
+    "images": [
+      "image/中进西厅/slide18_019_明『大明年制』花卉纹青花碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_010": {
+    "name": "青花瓷盘",
+    "entity_id": "entity_EX_ZJXT_010",
+    "images": [
+      "image/中进西厅/slide38_038_青花瓷盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_011": {
+    "name": "青花瓷碗",
+    "entity_id": "entity_EX_ZJXT_011",
+    "images": [
+      "image/中进西厅/slide41_041_青花瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_012": {
+    "name": "明青釉刻划菊瓣纹花口碗",
+    "entity_id": "entity_EX_ZJXT_012",
+    "images": [
+      "image/中进西厅/slide12_012_明青釉刻划菊瓣纹花口碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_013": {
+    "name": "清喜登梅纹青花釉里红盘",
+    "entity_id": "entity_EX_ZJXT_013",
+    "images": [
+      "image/中进西厅/slide16_016_清喜登梅纹青花釉里红盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青花釉里红",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_014": {
+    "name": "清蝶恋花褐彩白瓷花口圈足盘",
+    "entity_id": "entity_EX_ZJXT_014",
+    "images": [
+      "image/中进西厅/slide14_014_清蝶恋花褐彩白瓷花口圈足盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "褐彩瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_015": {
+    "name": "清墨彩八卦纹白瓷盘",
+    "entity_id": "entity_EX_ZJXT_015",
+    "images": [
+      "image/中进西厅/slide14_015_清墨彩八卦纹白瓷盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "墨彩瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_016": {
+    "name": "石湾窑酱黑釉四耳罐",
+    "entity_id": "entity_EX_ZJXT_016",
+    "images": [
+      "image/中进西厅/slide03_003_石湾窑酱黑釉四耳罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "石湾陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_017": {
+    "name": "明酱釉陶罐",
+    "entity_id": "entity_EX_ZJXT_017",
+    "images": [
+      "image/中进西厅/slide07_007_明酱釉陶罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "陶器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_018": {
+    "name": "清酱釉陶罐",
+    "entity_id": "entity_EX_ZJXT_018",
+    "images": [
+      "image/中进西厅/slide07_009_清酱釉陶罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "陶器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_019": {
+    "name": "青釉陶碗",
+    "entity_id": "entity_EX_ZJXT_019",
+    "images": [
+      "image/中进西厅/slide10_011_青釉陶碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "陶器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_020": {
+    "name": "清酱釉陶四耳罐",
+    "entity_id": "entity_EX_ZJXT_020",
+    "images": [
+      "image/中进西厅/slide13_013_清酱釉陶四耳罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "陶器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_021": {
+    "name": "宋酱釉四耳罐",
+    "entity_id": "entity_EX_ZJXT_021",
+    "images": [
+      "image/中进西厅/slide20_020_宋酱釉四耳罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "酱釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_022": {
+    "name": "宋酱釉执壶",
+    "entity_id": "entity_EX_ZJXT_022",
+    "images": [
+      "image/中进西厅/slide21_021_宋酱釉执壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "酱釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_023": {
+    "name": "『醇』酱釉罐残片",
+    "entity_id": "entity_EX_ZJXT_023",
+    "images": [
+      "image/中进西厅/slide25_025_『醇』酱釉罐残片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "酱釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_024": {
+    "name": "酱黑釉四耳罐",
+    "entity_id": "entity_EX_ZJXT_024",
+    "images": [
+      "image/中进西厅/slide34_034_酱黑釉四耳罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "酱釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_025": {
+    "name": "酱黑釉带流瓶",
+    "entity_id": "entity_EX_ZJXT_025",
+    "images": [
+      "image/中进西厅/slide36_036_酱黑釉带流瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "酱釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_026": {
+    "name": "酱黑釉带流瓶",
+    "entity_id": "entity_EX_ZJXT_026",
+    "images": [
+      "image/中进西厅/slide37_037_酱黑釉带流瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "酱釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_027": {
+    "name": "黑釉带把壶",
+    "entity_id": "entity_EX_ZJXT_027",
+    "images": [
+      "image/中进西厅/slide35_035_黑釉带把壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "黑釉瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_028": {
+    "name": "长沙窑青釉褐彩纹瓜形瓷壶",
+    "entity_id": "entity_EX_ZJXT_028",
+    "images": [
+      "image/中进西厅/slide26_026_长沙窑青釉褐彩纹瓜形瓷壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "长沙窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_029": {
+    "name": "南海窑『真珠红』酱釉罐残片",
+    "entity_id": "entity_EX_ZJXT_029",
+    "images": [
+      "image/中进西厅/slide22_022_南海窑『真珠红』酱釉罐残片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "南海窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_030": {
+    "name": "『吴宅』酱釉罐残片",
+    "entity_id": "entity_EX_ZJXT_030",
+    "images": [
+      "image/中进西厅/slide23_023_『吴宅』酱釉罐残片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "南海窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_031": {
+    "name": "南海窑『清香』酱釉罐残片",
+    "entity_id": "entity_EX_ZJXT_031",
+    "images": [
+      "image/中进西厅/slide24_024_南海窑『清香』酱釉罐残片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "南海窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_032": {
+    "name": "西村窑青瓷褐釉彩绘盆残片",
+    "entity_id": "entity_EX_ZJXT_032",
+    "images": [
+      "image/中进西厅/slide27_027_西村窑青瓷褐釉彩绘盆残片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_033": {
+    "name": "西村窑刻花青瓷片",
+    "entity_id": "entity_EX_ZJXT_033",
+    "images": [
+      "image/中进西厅/slide28_028_西村窑刻花青瓷片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_034": {
+    "name": "西村窑刻花青瓷残片",
+    "entity_id": "entity_EX_ZJXT_034",
+    "images": [
+      "image/中进西厅/slide33_033_西村窑刻花青瓷残片.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_035": {
+    "name": "西村窑青釉四系小瓷罐",
+    "entity_id": "entity_EX_ZJXT_035",
+    "images": [
+      "image/中进西厅/slide57_057_西村窑青釉四系小瓷罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_036": {
+    "name": "西村窑陶狗",
+    "entity_id": "entity_EX_ZJXT_036",
+    "images": [
+      "image/中进西厅/slide58_058_西村窑陶狗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_037": {
+    "name": "西村窑酱釉鸟食罐",
+    "entity_id": "entity_EX_ZJXT_037",
+    "images": [
+      "image/中进西厅/slide59_059_西村窑酱釉鸟食罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_038": {
+    "name": "西村窑青釉瓷罐",
+    "entity_id": "entity_EX_ZJXT_038",
+    "images": [
+      "image/中进西厅/slide60_060_西村窑青釉瓷罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "西村窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_039": {
+    "name": "耀州窑青釉刻花纹瓷碗",
+    "entity_id": "entity_EX_ZJXT_039",
+    "images": [
+      "image/中进西厅/slide29_029_耀州窑青釉刻花纹瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "耀州窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_040": {
+    "name": "龙泉窑青黄釉印人物文字纹瓷碗",
+    "entity_id": "entity_EX_ZJXT_040",
+    "images": [
+      "image/中进西厅/slide30_030_龙泉窑青黄釉印人物文字纹瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "龙泉窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_041": {
+    "name": "龙泉窑青釉莲花纹瓷梅瓶",
+    "entity_id": "entity_EX_ZJXT_041",
+    "images": [
+      "image/中进西厅/slide42_042_龙泉窑青釉莲花纹瓷梅瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "龙泉窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_042": {
+    "name": "越窑淡青釉刻花卉纹瓷壶",
+    "entity_id": "entity_EX_ZJXT_042",
+    "images": [
+      "image/中进西厅/slide32_032_越窑淡青釉刻花卉纹瓷壶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "越窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_043": {
+    "name": "青釉瓷碟",
+    "entity_id": "entity_EX_ZJXT_043",
+    "images": [
+      "image/中进西厅/slide31_031_青釉瓷碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_044": {
+    "name": "青花植物纹瓷渣斗",
+    "entity_id": "entity_EX_ZJXT_044",
+    "images": [
+      "image/中进西厅/slide39_039_青花植物纹瓷渣斗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_045": {
+    "name": "青花花卉纹瓷豆",
+    "entity_id": "entity_EX_ZJXT_045",
+    "images": [
+      "image/中进西厅/slide40_040_青花花卉纹瓷豆.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_046": {
+    "name": "『安』字圈足碟",
+    "entity_id": "entity_EX_ZJXT_046",
+    "images": [
+      "image/中进西厅/slide42_043_『安』字圈足碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_047": {
+    "name": "『宁』字圈足碟",
+    "entity_id": "entity_EX_ZJXT_047",
+    "images": [
+      "image/中进西厅/slide44_044_『宁』字圈足碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_048": {
+    "name": "青釉瓷灯",
+    "entity_id": "entity_EX_ZJXT_048",
+    "images": [
+      "image/中进西厅/slide45_045_青釉瓷灯.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_049": {
+    "name": "『寿』字连草菊瓣碗",
+    "entity_id": "entity_EX_ZJXT_049",
+    "images": [
+      "image/中进西厅/slide45_046_『寿』字连草菊瓣碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_050": {
+    "name": "青釉小罐",
+    "entity_id": "entity_EX_ZJXT_050",
+    "images": [
+      "image/中进西厅/slide47_047_青釉小罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_051": {
+    "name": "青釉瓷碟",
+    "entity_id": "entity_EX_ZJXT_051",
+    "images": [
+      "image/中进西厅/slide47_048_青釉瓷碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_052": {
+    "name": "青釉高足杯",
+    "entity_id": "entity_EX_ZJXT_052",
+    "images": [
+      "image/中进西厅/slide49_049_青釉高足杯.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "大埔窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_053": {
+    "name": "青釉圈足瓷杯",
+    "entity_id": "entity_EX_ZJXT_053",
+    "images": [
+      "image/中进西厅/slide50_050_青釉圈足瓷杯.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "潮州窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_054": {
+    "name": "青白釉瓷碟",
+    "entity_id": "entity_EX_ZJXT_054",
+    "images": [
+      "image/中进西厅/slide51_051_青白釉瓷碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "潮州窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_055": {
+    "name": "唐青釉瓷器盖",
+    "entity_id": "entity_EX_ZJXT_055",
+    "images": [
+      "image/中进西厅/slide52_052_唐青釉瓷器盖.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "曾边窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_056": {
+    "name": "唐青釉瓷碗",
+    "entity_id": "entity_EX_ZJXT_056",
+    "images": [
+      "image/中进西厅/slide52_053_唐青釉瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "曾边窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_057": {
+    "name": "唐青瓷罐",
+    "entity_id": "entity_EX_ZJXT_057",
+    "images": [
+      "image/中进西厅/slide54_054_唐青瓷罐.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "曾边窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_058": {
+    "name": "沙边窑青瓷高足碗",
+    "entity_id": "entity_EX_ZJXT_058",
+    "images": [
+      "image/中进西厅/slide55_055_沙边窑青瓷高足碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "沙边窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_059": {
+    "name": "沙边窑漏斗形画体",
+    "entity_id": "entity_EX_ZJXT_059",
+    "images": [
+      "image/中进西厅/slide56_056_沙边窑漏斗形画体.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "沙边窑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJXT_060": {
+    "name": "唐五代青瓷碗",
+    "entity_id": "entity_EX_ZJXT_060",
+    "images": [
+      "image/中进西厅/slide17_017_唐五代青瓷碗.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进西厅",
+    "exhibition": "瓷行万里潮——明清广东陶瓷展",
+    "category": "青瓷",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_001": {
+    "name": "石湾陶·葫芦仙",
+    "entity_id": "entity_EX_JXT_001",
+    "images": [
+      "image/中进正厅聚贤堂/slide03_002_石湾陶·葫芦仙.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "石湾陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_002": {
+    "name": "石湾陶·素胎鹤鹑",
+    "entity_id": "entity_EX_JXT_002",
+    "images": [
+      "image/中进正厅聚贤堂/slide04_003_石湾陶·素胎鹤鹑.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "石湾陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_003": {
+    "name": "石湾陶·钧蓝釉梅瓶",
+    "entity_id": "entity_EX_JXT_003",
+    "images": [
+      "image/中进正厅聚贤堂/slide05_004_石湾陶·钧蓝釉梅瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "石湾陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_004": {
+    "name": "石湾陶·长眉罗汉",
+    "entity_id": "entity_EX_JXT_004",
+    "images": [
+      "image/中进正厅聚贤堂/slide06_005_石湾陶·长眉罗汉.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "石湾陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_005": {
+    "name": "石湾陶·微塑观瀑",
+    "entity_id": "entity_EX_JXT_005",
+    "images": [
+      "image/中进正厅聚贤堂/slide07_006_石湾陶·微塑观瀑.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "石湾陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_006": {
+    "name": "石雕双面镂雕老鼠荔枝葡萄图梁",
+    "entity_id": "entity_EX_JXT_006",
+    "images": [
+      "image/中进正厅聚贤堂/slide08_007_石雕双面镂雕老鼠荔枝葡萄图梁.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州石雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_007": {
+    "name": "潮州石雕·花篮（垂花柱）",
+    "entity_id": "entity_EX_JXT_007",
+    "images": [
+      "image/中进正厅聚贤堂/slide09_008_潮州石雕·花篮_垂花柱_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州石雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_008": {
+    "name": "潮州金漆木雕·神龛",
+    "entity_id": "entity_EX_JXT_008",
+    "images": [
+      "image/中进正厅聚贤堂/slide10_009_潮州金漆木雕·神龛.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_009": {
+    "name": "潮州金漆木雕·大神亭",
+    "entity_id": "entity_EX_JXT_009",
+    "images": [
+      "image/中进正厅聚贤堂/slide11_010_潮州金漆木雕·大神亭.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_010": {
+    "name": "广州木雕·刻龙纹大神亭",
+    "entity_id": "entity_EX_JXT_010",
+    "images": [
+      "image/中进正厅聚贤堂/slide12_011_广州木雕·刻龙纹大神亭.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "广州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_011": {
+    "name": "木雕虾蟹笼（工序展示）",
+    "entity_id": "entity_EX_JXT_011",
+    "images": [
+      "image/中进正厅聚贤堂/slide14_013_木雕虾蟹笼_工序展示_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_012": {
+    "name": "潮州木雕·镂雕虾蟹笼",
+    "entity_id": "entity_EX_JXT_012",
+    "images": [
+      "image/中进正厅聚贤堂/slide15_014_潮州木雕·镂雕虾蟹笼.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_013": {
+    "name": "木雕打坯工具",
+    "entity_id": "entity_EX_JXT_013",
+    "images": [
+      "image/中进正厅聚贤堂/slide13_012_木雕打坯工具.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "木雕工具",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_014": {
+    "name": "广彩·绘『花鸟人物图』瓶",
+    "entity_id": "entity_EX_JXT_014",
+    "images": [
+      "image/中进正厅聚贤堂/slide16_015_广彩·绘『花鸟人物图』瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "广彩",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_015": {
+    "name": "广彩·绘『广州十三行商馆区』瓷板画",
+    "entity_id": "entity_EX_JXT_015",
+    "images": [
+      "image/中进正厅聚贤堂/slide17_016_广彩·绘『广州十三行商馆区』瓷板画.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "广彩",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_016": {
+    "name": "广彩·绘锦边斗鸡图鱼碟",
+    "entity_id": "entity_EX_JXT_016",
+    "images": [
+      "image/中进正厅聚贤堂/slide18_017_广彩·绘锦边斗鸡图鱼碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "广彩",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_017": {
+    "name": "广彩·绘玉兰花碟",
+    "entity_id": "entity_EX_JXT_017",
+    "images": [
+      "image/中进正厅聚贤堂/slide19_018_广彩·绘玉兰花碟.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "广彩",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_018": {
+    "name": "广彩·绘英国东印度公司纹章椭圆形盘",
+    "entity_id": "entity_EX_JXT_018",
+    "images": [
+      "image/中进正厅聚贤堂/slide20_019_广彩·绘英国东印度公司纹章椭圆形盘.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "广彩",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_019": {
+    "name": "枫溪瓷塑·蔡文姬",
+    "entity_id": "entity_EX_JXT_019",
+    "images": [
+      "image/中进正厅聚贤堂/slide21_020_枫溪瓷塑·蔡文姬.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "枫溪瓷塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_020": {
+    "name": "枫溪瓷塑·穆桂英与焦赞",
+    "entity_id": "entity_EX_JXT_020",
+    "images": [
+      "image/中进正厅聚贤堂/slide22_021_枫溪瓷塑·穆桂英与焦赞.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "枫溪瓷塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_021": {
+    "name": "枫溪瓷塑·秋香送茶",
+    "entity_id": "entity_EX_JXT_021",
+    "images": [
+      "image/中进正厅聚贤堂/slide23_022_枫溪瓷塑·秋香送茶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "枫溪瓷塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_022": {
+    "name": "枫溪·『双秀』通花瓶",
+    "entity_id": "entity_EX_JXT_022",
+    "images": [
+      "image/中进正厅聚贤堂/slide24_023_枫溪·『双秀』通花瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "枫溪瓷塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_023": {
+    "name": "坭兴陶·伏击",
+    "entity_id": "entity_EX_JXT_023",
+    "images": [
+      "image/中进正厅聚贤堂/slide25_024_坭兴陶·伏击.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "坭兴陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_024": {
+    "name": "坭兴陶·刻松凤清瓶（梦蝶图）",
+    "entity_id": "entity_EX_JXT_024",
+    "images": [
+      "image/中进正厅聚贤堂/slide26_025_坭兴陶·刻松凤清瓶_梦蝶图_.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "坭兴陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_025": {
+    "name": "坭兴陶·刻松下高士图南瓜盅",
+    "entity_id": "entity_EX_JXT_025",
+    "images": [
+      "image/中进正厅聚贤堂/slide27_026_坭兴陶·刻松下高士图南瓜盅.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "坭兴陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_026": {
+    "name": "坭兴陶·刻文字瑞兽吉祥瓶",
+    "entity_id": "entity_EX_JXT_026",
+    "images": [
+      "image/中进正厅聚贤堂/slide28_027_坭兴陶·刻文字瑞兽吉祥瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "坭兴陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_027": {
+    "name": "坭兴陶·刻吹箫引凤纹瓶",
+    "entity_id": "entity_EX_JXT_027",
+    "images": [
+      "image/中进正厅聚贤堂/slide29_028_坭兴陶·刻吹箫引凤纹瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "坭兴陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_028": {
+    "name": "坭兴陶·刻竹报平安图瓶",
+    "entity_id": "entity_EX_JXT_028",
+    "images": [
+      "image/中进正厅聚贤堂/slide30_029_坭兴陶·刻竹报平安图瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "坭兴陶",
+    "update_date": "2026-08-06"
+  },
+  "EX_JXT_029": {
+    "name": "聚贤堂复原陈设",
+    "entity_id": "entity_EX_JXT_029",
+    "images": [
+      "image/中进正厅聚贤堂/slide02_001_聚贤堂复原陈设.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进正厅聚贤堂",
+    "exhibition": "岭南民间百艺",
+    "category": "复原陈设",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_001": {
+    "name": "贝雕·百花齐放",
+    "entity_id": "entity_EX_ZJDT_001",
+    "images": [
+      "image/中进东厅/slide01_001_贝雕·百花齐放.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "贝雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_002": {
+    "name": "大吴泥塑·志在农村",
+    "entity_id": "entity_EX_ZJDT_002",
+    "images": [
+      "image/中进东厅/slide02_002_大吴泥塑·志在农村.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_003": {
+    "name": "大吴泥塑·木兰从军",
+    "entity_id": "entity_EX_ZJDT_003",
+    "images": [
+      "image/中进东厅/slide03_003_大吴泥塑·木兰从军.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_004": {
+    "name": "潮州泥塑·潮剧折子戏",
+    "entity_id": "entity_EX_ZJDT_004",
+    "images": [
+      "image/中进东厅/slide04_004_潮州泥塑·潮剧折子戏.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_005": {
+    "name": "大吴泥塑·弹琵琶",
+    "entity_id": "entity_EX_ZJDT_005",
+    "images": [
+      "image/中进东厅/slide05_005_大吴泥塑·弹琵琶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_006": {
+    "name": "广州泥塑·牧童骑牛",
+    "entity_id": "entity_EX_ZJDT_006",
+    "images": [
+      "image/中进东厅/slide06_006_广州泥塑·牧童骑牛.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_007": {
+    "name": "木雕·福禄双至",
+    "entity_id": "entity_EX_ZJDT_007",
+    "images": [
+      "image/中进东厅/slide07_007_木雕·福禄双至.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "建筑木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_008": {
+    "name": "潮州木雕·华容道图摆件",
+    "entity_id": "entity_EX_ZJDT_008",
+    "images": [
+      "image/中进东厅/slide08_008_潮州木雕·华容道图摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_009": {
+    "name": "揭阳漆画·孙悟空大闹天宫",
+    "entity_id": "entity_EX_ZJDT_009",
+    "images": [
+      "image/中进东厅/slide09_009_揭阳漆画·孙悟空大闹天宫.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "揭阳漆器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_010": {
+    "name": "潮州金漆木雕·博古图方形香炉罩",
+    "entity_id": "entity_EX_ZJDT_010",
+    "images": [
+      "image/中进东厅/slide11_010_潮州金漆木雕·博古图方形香炉罩.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_011": {
+    "name": "潮州金漆木雕·人物梅雀图供盒",
+    "entity_id": "entity_EX_ZJDT_011",
+    "images": [
+      "image/中进东厅/slide12_011_潮州金漆木雕·人物梅雀图供盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_012": {
+    "name": "潮州金漆木雕·凤凰牡丹纹神楼",
+    "entity_id": "entity_EX_ZJDT_012",
+    "images": [
+      "image/中进东厅/slide13_012_潮州金漆木雕·凤凰牡丹纹神楼.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_013": {
+    "name": "潮州金漆木雕·人物故事图菱形盒",
+    "entity_id": "entity_EX_ZJDT_013",
+    "images": [
+      "image/中进东厅/slide14_013_潮州金漆木雕·人物故事图菱形盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_014": {
+    "name": "潮州木雕·虾蟹笼摆件",
+    "entity_id": "entity_EX_ZJDT_014",
+    "images": [
+      "image/中进东厅/slide15_014_潮州木雕·虾蟹笼摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_015": {
+    "name": "潮州金漆木雕制作工序",
+    "entity_id": "entity_EX_ZJDT_015",
+    "images": [
+      "image/中进东厅/slide16_015_潮州金漆木雕制作工序.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "工艺说明",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_016": {
+    "name": "潮州木雕·瑞兽人物图花条",
+    "entity_id": "entity_EX_ZJDT_016",
+    "images": [
+      "image/中进东厅/slide17_016_潮州木雕·瑞兽人物图花条.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_017": {
+    "name": "潮州木雕·麒麟图花条",
+    "entity_id": "entity_EX_ZJDT_017",
+    "images": [
+      "image/中进东厅/slide18_017_潮州木雕·麒麟图花条.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_018": {
+    "name": "潮州木雕·牡丹老鼠图花条",
+    "entity_id": "entity_EX_ZJDT_018",
+    "images": [
+      "image/中进东厅/slide19_018_潮州木雕·牡丹老鼠图花条.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_019": {
+    "name": "潮州木雕·「许褚战马超」图花板",
+    "entity_id": "entity_EX_ZJDT_019",
+    "images": [
+      "image/中进东厅/slide20_019_潮州木雕·「许褚战马超」图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_020": {
+    "name": "潮州木雕·博古图花板",
+    "entity_id": "entity_EX_ZJDT_020",
+    "images": [
+      "image/中进东厅/slide21_020_潮州木雕·博古图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_021": {
+    "name": "潮州木雕·「王茂生进酒」图花板",
+    "entity_id": "entity_EX_ZJDT_021",
+    "images": [
+      "image/中进东厅/slide22_021_潮州木雕·「王茂生进酒」图花板.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_022": {
+    "name": "潮州金漆木雕·百鸟朝凰",
+    "entity_id": "entity_EX_ZJDT_022",
+    "images": [
+      "image/中进东厅/slide24_022_潮州金漆木雕·百鸟朝凰.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州金漆木雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_023": {
+    "name": "广州画珐琅·瓜蝶纹菱花式攒盒",
+    "entity_id": "entity_EX_ZJDT_023",
+    "images": [
+      "image/中进东厅/slide25_023_广州画珐琅·瓜蝶纹菱花式攒盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "广州画珐琅",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_024": {
+    "name": "岫玉云龙球",
+    "entity_id": "entity_EX_ZJDT_024",
+    "images": [
+      "image/中进东厅/slide26_024_岫玉云龙球.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "玉雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_025": {
+    "name": "翡翠指溢金元",
+    "entity_id": "entity_EX_ZJDT_025",
+    "images": [
+      "image/中进东厅/slide27_025_翡翠指溢金元.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "玉雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_026": {
+    "name": "玉雕·狐式瓶",
+    "entity_id": "entity_EX_ZJDT_026",
+    "images": [
+      "image/中进东厅/slide28_026_玉雕·狐式瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "玉雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_027": {
+    "name": "榄核雕",
+    "entity_id": "entity_EX_ZJDT_027",
+    "images": [
+      "image/中进东厅/slide29_027_榄核雕.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "榄核雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_028": {
+    "name": "榄核雕·游赤壁图小艇",
+    "entity_id": "entity_EX_ZJDT_028",
+    "images": [
+      "image/中进东厅/slide30_028_榄核雕·游赤壁图小艇.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "榄核雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_029": {
+    "name": "榄核雕·娃娃玉米",
+    "entity_id": "entity_EX_ZJDT_029",
+    "images": [
+      "image/中进东厅/slide30_029_榄核雕·娃娃玉米.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "榄核雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_030": {
+    "name": "榄核雕·八仙过海",
+    "entity_id": "entity_EX_ZJDT_030",
+    "images": [
+      "image/中进东厅/slide30_030_榄核雕·八仙过海.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "榄核雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_031": {
+    "name": "榄核雕·蟹笼",
+    "entity_id": "entity_EX_ZJDT_031",
+    "images": [
+      "image/中进东厅/slide30_031_榄核雕·蟹笼.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "榄核雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_032": {
+    "name": "榄核雕·花舫",
+    "entity_id": "entity_EX_ZJDT_032",
+    "images": [
+      "image/中进东厅/slide30_032_榄核雕·花舫.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "榄核雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_033": {
+    "name": "揭阳刻填彩漆画·蔗糖丰收",
+    "entity_id": "entity_EX_ZJDT_033",
+    "images": [
+      "image/中进东厅/slide36_033_揭阳刻填彩漆画·蔗糖丰收.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "揭阳漆器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_034": {
+    "name": "揭阳金漆画·花木兰",
+    "entity_id": "entity_EX_ZJDT_034",
+    "images": [
+      "image/中进东厅/slide37_034_揭阳金漆画·花木兰.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "揭阳漆器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_035": {
+    "name": "脱胎犀皮漆瓶",
+    "entity_id": "entity_EX_ZJDT_035",
+    "images": [
+      "image/中进东厅/slide38_035_脱胎犀皮漆瓶.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "脱胎犀皮漆",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_036": {
+    "name": "红黑漆描金人物故事图梳妆盒",
+    "entity_id": "entity_EX_ZJDT_036",
+    "images": [
+      "image/中进东厅/slide39_036_红黑漆描金人物故事图梳妆盒.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "广州漆器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_037": {
+    "name": "银刻梅花纹茶具",
+    "entity_id": "entity_EX_ZJDT_037",
+    "images": [
+      "image/中进东厅/slide40_037_银刻梅花纹茶具.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "广州银器",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_038": {
+    "name": "贝雕·花卉凤鹤鹿图摆件",
+    "entity_id": "entity_EX_ZJDT_038",
+    "images": [
+      "image/中进东厅/slide41_038_贝雕·花卉凤鹤鹿图摆件.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "贝雕",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_039": {
+    "name": "潮州铜錾·西湖渔花",
+    "entity_id": "entity_EX_ZJDT_039",
+    "images": [
+      "image/中进东厅/slide42_039_潮州铜錾·西湖渔花.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州铜錾",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_040": {
+    "name": "潮州铜錾·郭子仪拜寿",
+    "entity_id": "entity_EX_ZJDT_040",
+    "images": [
+      "image/中进东厅/slide43_040_潮州铜錾·郭子仪拜寿.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "潮州铜錾",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_041": {
+    "name": "大吴泥塑·回荆州",
+    "entity_id": "entity_EX_ZJDT_041",
+    "images": [
+      "image/中进东厅/slide44_041_大吴泥塑·回荆州.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_042": {
+    "name": "大吴泥塑·过江招亲",
+    "entity_id": "entity_EX_ZJDT_042",
+    "images": [
+      "image/中进东厅/slide45_042_大吴泥塑·过江招亲.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_043": {
+    "name": "大吴泥塑·三雄图",
+    "entity_id": "entity_EX_ZJDT_043",
+    "images": [
+      "image/中进东厅/slide46_043_大吴泥塑·三雄图.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
+  },
+  "EX_ZJDT_044": {
+    "name": "大吴泥塑·辞郎洲",
+    "entity_id": "entity_EX_ZJDT_044",
+    "images": [
+      "image/中进东厅/slide47_044_大吴泥塑·辞郎洲.jpg"
+    ],
+    "source": "展厅展品介绍",
+    "hall": "中进东厅",
+    "exhibition": "岭南民间百艺",
+    "category": "大吴泥塑",
+    "update_date": "2026-08-06"
   }
 }
