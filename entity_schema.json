@@ -1,0 +1,943 @@
+{
+  "schema_version": "2.0",
+  "description": "陈家祠知识图谱实体类型Schema，基于知识图谱设计参考规范",
+  "entity_types": {
+    "景点": {
+      "description": "陈家祠作为核心景点实体",
+      "properties": {
+        "景点名称": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        },
+        "开放时间": {
+          "type": "string",
+          "required": false
+        },
+        "门票信息": {
+          "type": "string",
+          "required": false
+        },
+        "游玩建议时长": {
+          "type": "string",
+          "required": false
+        },
+        "地理位置": {
+          "type": "string",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "展品": {
+      "description": "博物馆展出的各类工艺作品",
+      "properties": {
+        "展品名称": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        },
+        "年代": {
+          "type": "string",
+          "required": false
+        },
+        "尺寸": {
+          "type": "string",
+          "required": false
+        },
+        "材质": {
+          "type": "string",
+          "required": false
+        },
+        "保护等级": {
+          "type": "string",
+          "required": false
+        },
+        "馆藏来源": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "展厅": {
+      "description": "陈家祠内各展览空间",
+      "properties": {
+        "展厅位置": {
+          "type": "string",
+          "required": true
+        },
+        "开放时间": {
+          "type": "string",
+          "required": false
+        },
+        "展厅简介": {
+          "type": "text",
+          "required": true
+        },
+        "是否常设展厅": {
+          "type": "boolean",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "城市": {
+      "description": "地理定位实体",
+      "properties": {
+        "城市名称": {
+          "type": "string",
+          "required": true
+        },
+        "地理位置": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "历史人物": {
+      "description": "与陈家祠历史相关的人物",
+      "properties": {
+        "姓名": {
+          "type": "string",
+          "required": true
+        },
+        "生卒年份": {
+          "type": "string",
+          "required": false
+        },
+        "人物简介": {
+          "type": "text",
+          "required": true
+        },
+        "身份职务": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "朝代或时期": {
+      "description": "历史时期分类",
+      "properties": {
+        "时期名称": {
+          "type": "string",
+          "required": true
+        },
+        "起止年份": {
+          "type": "string",
+          "required": false
+        },
+        "时代特征": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "历史事件": {
+      "description": "陈家祠历史沿革中的重大事件",
+      "properties": {
+        "事件名称": {
+          "type": "string",
+          "required": true
+        },
+        "发生时间": {
+          "type": "string",
+          "required": true
+        },
+        "事件简介": {
+          "type": "text",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "文化主题": {
+      "description": "建筑装饰和文化内涵的主题分类",
+      "properties": {
+        "主题名称": {
+          "type": "string",
+          "required": true
+        },
+        "主题简介": {
+          "type": "text",
+          "required": true
+        },
+        "主题内容": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "器物类别": {
+      "description": "藏品和展品的工艺分类",
+      "properties": {
+        "类别名称": {
+          "type": "string",
+          "required": true
+        },
+        "类别简介": {
+          "type": "text",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "场馆设施": {
+      "description": "博物馆服务设施",
+      "properties": {
+        "设施名称": {
+          "type": "string",
+          "required": true
+        },
+        "设施类型": {
+          "type": "string",
+          "required": true
+        },
+        "服务说明": {
+          "type": "text",
+          "required": false
+        },
+        "开放状态": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "游览路线": {
+      "description": "推荐的参观路线",
+      "properties": {
+        "路线名称": {
+          "type": "string",
+          "required": true
+        },
+        "路线时长": {
+          "type": "string",
+          "required": true
+        },
+        "难度": {
+          "type": "string",
+          "required": false
+        },
+        "风格简介": {
+          "type": "text",
+          "required": true
+        },
+        "适合人群": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "活动": {
+      "description": "博物馆举办的各类活动",
+      "properties": {
+        "活动名称": {
+          "type": "string",
+          "required": true
+        },
+        "活动时间": {
+          "type": "string",
+          "required": true
+        },
+        "活动地点": {
+          "type": "string",
+          "required": false
+        },
+        "活动简介": {
+          "type": "text",
+          "required": true
+        },
+        "活动状态": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "文创产品": {
+      "description": "博物馆文创商品",
+      "properties": {
+        "产品名称": {
+          "type": "string",
+          "required": true
+        },
+        "价格区间": {
+          "type": "string",
+          "required": false
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        },
+        "关联展品": {
+          "type": "string",
+          "required": false
+        },
+        "售卖地点": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "人群标签": {
+      "description": "游客群体分类标签",
+      "properties": {
+        "标签名称": {
+          "type": "string",
+          "required": true
+        }
+      },
+      "images_field": false,
+      "source_field": true
+    },
+    "匠人": {
+      "description": "匠人",
+      "properties": {
+        "姓名": {
+          "type": "string",
+          "required": true
+        },
+        "生卒年": {
+          "type": "string",
+          "required": false
+        },
+        "籍贯": {
+          "type": "string",
+          "required": false
+        },
+        "称号": {
+          "type": "string",
+          "required": false
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "捐赠人": {
+      "description": "捐赠人",
+      "properties": {
+        "姓名": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "工艺类别": {
+      "description": "工艺类别",
+      "properties": {
+        "类别名称": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "空间节点": {
+      "description": "空间节点",
+      "properties": {
+        "名称": {
+          "type": "string",
+          "required": true
+        },
+        "位置": {
+          "type": "string",
+          "required": false
+        },
+        "功能": {
+          "type": "string",
+          "required": false
+        },
+        "主题": {
+          "type": "string",
+          "required": false
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "产地": {
+      "description": "产地",
+      "properties": {
+        "产地名称": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "藏品": {
+      "description": "藏品",
+      "properties": {
+        "名称": {
+          "type": "string",
+          "required": true
+        },
+        "年代": {
+          "type": "string",
+          "required": false
+        },
+        "尺寸": {
+          "type": "string",
+          "required": false
+        },
+        "材质/工艺": {
+          "type": "string",
+          "required": false
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        },
+        "展厅": {
+          "type": "string",
+          "required": false
+        },
+        "作者": {
+          "type": "string",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "收藏单位": {
+      "description": "收藏单位",
+      "properties": {
+        "单位名称": {
+          "type": "string",
+          "required": true
+        },
+        "简介": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "工艺门类": {
+      "description": "工艺门类",
+      "properties": {
+        "门类名称": {
+          "type": "string",
+          "required": true
+        },
+        "类别": {
+          "type": "string",
+          "required": false
+        },
+        "作品数量": {
+          "type": "integer",
+          "required": false
+        },
+        "位置数量": {
+          "type": "integer",
+          "required": false
+        },
+        "简介": {
+          "type": "text",
+          "required": true
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "朝代": {
+      "description": "朝代",
+      "properties": {
+        "时期名称": {
+          "type": "string",
+          "required": true
+        },
+        "起止时间": {
+          "type": "string",
+          "required": false
+        },
+        "时代特征": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    },
+    "建筑装饰作品": {
+      "description": "建筑装饰作品",
+      "properties": {
+        "作品名称": {
+          "type": "string",
+          "required": true
+        },
+        "工艺类别": {
+          "type": "string",
+          "required": true
+        },
+        "位置": {
+          "type": "string",
+          "required": true
+        },
+        "内容描述": {
+          "type": "text",
+          "required": true
+        },
+        "文化寓意": {
+          "type": "text",
+          "required": false
+        },
+        "工艺技法": {
+          "type": "text",
+          "required": false
+        }
+      },
+      "images_field": true,
+      "source_field": true
+    }
+  },
+  "relationship_types": {
+    "位于": {
+      "description": "展厅/景点/设施/活动/装饰作品 → 城市/展厅/空间节点",
+      "source_required": true,
+      "subject_types": [
+        "展厅",
+        "景点",
+        "场馆设施",
+        "活动",
+        "空间节点",
+        "建筑装饰作品",
+        "藏品"
+      ],
+      "object_types": [
+        "城市",
+        "展厅",
+        "空间节点"
+      ]
+    },
+    "展示于": {
+      "description": "展品/藏品 → 展厅/空间节点",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品"
+      ],
+      "object_types": [
+        "展厅",
+        "空间节点"
+      ]
+    },
+    "属于": {
+      "description": "展品/藏品/装饰作品 → 器物类别/文化主题",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "建筑装饰作品"
+      ],
+      "object_types": [
+        "器物类别",
+        "文化主题"
+      ]
+    },
+    "创作于": {
+      "description": "展品/藏品/装饰作品 → 朝代/历史人物",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "建筑装饰作品"
+      ],
+      "object_types": [
+        "朝代",
+        "朝代或时期",
+        "历史人物"
+      ]
+    },
+    "出土于": {
+      "description": "展品/藏品 → 景点/城市",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品"
+      ],
+      "object_types": [
+        "景点",
+        "城市"
+      ]
+    },
+    "与人物相关": {
+      "description": "展品/事件/装饰作品 → 历史人物",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "历史事件",
+        "建筑装饰作品"
+      ],
+      "object_types": [
+        "历史人物"
+      ]
+    },
+    "与事件相关": {
+      "description": "展品/人物 → 历史事件",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "历史人物"
+      ],
+      "object_types": [
+        "历史事件"
+      ]
+    },
+    "同一时期": {
+      "description": "展品↔展品、事件↔事件（双向）",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "历史事件"
+      ],
+      "object_types": [
+        "藏品",
+        "展品",
+        "历史事件"
+      ]
+    },
+    "同一主题": {
+      "description": "展品↔展品（双向）",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "建筑装饰作品"
+      ],
+      "object_types": [
+        "藏品",
+        "展品",
+        "建筑装饰作品"
+      ]
+    },
+    "相邻": {
+      "description": "展厅↔展厅/空间节点↔空间节点",
+      "source_required": true,
+      "subject_types": [
+        "展厅",
+        "空间节点"
+      ],
+      "object_types": [
+        "展厅",
+        "空间节点"
+      ]
+    },
+    "推荐参观": {
+      "description": "展品↔展品（智能推荐核心）",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "建筑装饰作品"
+      ],
+      "object_types": [
+        "藏品",
+        "展品",
+        "建筑装饰作品"
+      ]
+    },
+    "路线包含": {
+      "description": "游览路线 → 展品/展厅/空间节点",
+      "source_required": true,
+      "subject_types": [
+        "游览路线"
+      ],
+      "object_types": [
+        "藏品",
+        "展品",
+        "展厅",
+        "空间节点",
+        "建筑装饰作品"
+      ]
+    },
+    "附近设施": {
+      "description": "展厅/景点 → 场馆设施",
+      "source_required": true,
+      "subject_types": [
+        "展厅",
+        "景点",
+        "空间节点"
+      ],
+      "object_types": [
+        "场馆设施"
+      ]
+    },
+    "适合面向": {
+      "description": "展品/路线 → 人群标签（推荐筛选核心）",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品",
+        "游览路线"
+      ],
+      "object_types": [
+        "人群标签"
+      ]
+    },
+    "举办于": {
+      "description": "活动 → 展厅/景点",
+      "source_required": true,
+      "subject_types": [
+        "活动"
+      ],
+      "object_types": [
+        "展厅",
+        "景点",
+        "空间节点"
+      ]
+    },
+    "产地": {
+      "description": "展品/藏品 → 产地",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品"
+      ],
+      "object_types": [
+        "产地"
+      ]
+    },
+    "收藏于": {
+      "description": "展品/藏品 → 收藏单位",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品"
+      ],
+      "object_types": [
+        "收藏单位"
+      ]
+    },
+    "捐赠藏品于": {
+      "description": "展品/藏品 → 历史人物",
+      "source_required": true,
+      "subject_types": [
+        "藏品",
+        "展品"
+      ],
+      "object_types": [
+        "历史人物"
+      ]
+    },
+    "传承工艺于": {
+      "description": "历史人物 → 工艺门类",
+      "source_required": true,
+      "subject_types": [
+        "历史人物"
+      ],
+      "object_types": [
+        "工艺门类"
+      ]
+    },
+    "活跃于": {
+      "description": "历史人物 → 朝代",
+      "source_required": true,
+      "subject_types": [
+        "历史人物"
+      ],
+      "object_types": [
+        "朝代",
+        "朝代或时期"
+      ]
+    },
+    "参与": {
+      "description": "历史人物 → 历史事件",
+      "source_required": true,
+      "subject_types": [
+        "历史人物"
+      ],
+      "object_types": [
+        "历史事件"
+      ]
+    },
+    "是": {
+      "description": "实体 → 实体（等价/同一关系）",
+      "source_required": true,
+      "subject_types": [
+        "空间节点",
+        "展厅"
+      ],
+      "object_types": [
+        "空间节点",
+        "展厅"
+      ]
+    },
+    "位于前方": {
+      "description": "空间节点 → 空间节点",
+      "source_required": true,
+      "subject_types": [
+        "空间节点"
+      ],
+      "object_types": [
+        "空间节点"
+      ]
+    },
+    "发生于": {
+      "description": "历史事件 → 展厅/景点",
+      "source_required": true,
+      "subject_types": [
+        "历史事件"
+      ],
+      "object_types": [
+        "展厅",
+        "景点",
+        "空间节点"
+      ]
+    },
+    "建造于": {
+      "description": "景点 → 朝代",
+      "source_required": true,
+      "subject_types": [
+        "景点"
+      ],
+      "object_types": [
+        "朝代",
+        "朝代或时期"
+      ]
+    },
+    "创作工艺于": {
+      "description": "历史人物 → 工艺门类",
+      "source_required": true,
+      "subject_types": [
+        "历史人物"
+      ],
+      "object_types": [
+        "工艺门类"
+      ]
+    },
+    "取材于": {
+      "description": "建筑装饰作品/藏品 → 文化主题",
+      "source_required": true,
+      "subject_types": [
+        "建筑装饰作品",
+        "藏品"
+      ],
+      "object_types": [
+        "文化主题"
+      ]
+    },
+    "发生于朝代": {
+      "description": "历史事件 → 朝代",
+      "source_required": true,
+      "subject_types": [
+        "历史事件"
+      ],
+      "object_types": [
+        "朝代",
+        "朝代或时期"
+      ]
+    },
+    "装饰题材于": {
+      "description": "建筑装饰作品 → 文化主题",
+      "source_required": true,
+      "subject_types": [
+        "建筑装饰作品"
+      ],
+      "object_types": [
+        "文化主题"
+      ]
+    }
+  },
+  "global_fields": {
+    "id": {
+      "type": "string",
+      "required": true,
+      "description": "实体唯一标识符"
+    },
+    "name": {
+      "type": "string",
+      "required": true,
+      "description": "实体名称"
+    },
+    "type": {
+      "type": "string",
+      "required": true,
+      "description": "实体类型"
+    },
+    "tags": {
+      "type": "array",
+      "required": false,
+      "description": "标签数组"
+    },
+    "properties": {
+      "type": "object",
+      "required": true,
+      "description": "属性对象"
+    },
+    "description": {
+      "type": "text",
+      "required": true,
+      "description": "长文本描述"
+    },
+    "images": {
+      "type": "array",
+      "required": true,
+      "description": "关联图片URL数组，无图片时为空数组"
+    },
+    "source": {
+      "type": "string",
+      "required": true,
+      "description": "数据来源，须标注为外部权威来源"
+    }
+  }
+}
